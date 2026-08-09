@@ -1,0 +1,35 @@
+name: Automarket check
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # co godzinę, o pełnej godzinie UTC
+  workflow_dispatch: {}    # pozwala odpalić ręcznie z zakładki Actions
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instaluj zależności
+        run: pip install -r requirements.txt
+
+      - name: Uruchom scraper
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python automarket_scraper.py
+
+      - name: Zapisz stan (nowe/znane oferty) z powrotem do repo
+        run: |
+          git config user.name "automarket-bot"
+          git config user.email "automarket-bot@users.noreply.github.com"
+          git add automarket_seen_offers.json
+          git diff --quiet --cached || git commit -m "Aktualizacja listy znanych ofert"
+          git push
