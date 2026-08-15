@@ -346,5 +346,17 @@
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/315191"
+  },
+  "315347": {
+    "id": "315347",
+    "brand": "volkswagen",
+    "model": "golf",
+    "url": "https://automarket.pl/oferta/volkswagen/golf/315347"
+  },
+  "315335": {
+    "id": "315335",
+    "brand": "volkswagen",
+    "model": "t-roc",
+    "url": "https://automarket.pl/oferta/volkswagen/t-roc/315335"
   }
 }
