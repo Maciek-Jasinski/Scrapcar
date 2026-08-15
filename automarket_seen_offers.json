@@ -340,5 +340,11 @@
     "brand": "hyundai",
     "model": "tucson",
     "url": "https://automarket.pl/oferta/hyundai/tucson/314969"
+  },
+  "315191": {
+    "id": "315191",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/315191"
   }
 }
