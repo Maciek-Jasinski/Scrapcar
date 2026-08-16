@@ -5,41 +5,17 @@
     "model": "golf",
     "url": "https://automarket.pl/oferta/volkswagen/golf/315347/wynajem-dlugoterminowy"
   },
-  "315335": {
-    "id": "315335",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/315335/leasing"
-  },
   "315191": {
     "id": "315191",
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/315191/wynajem-dlugoterminowy"
   },
-  "314969": {
-    "id": "314969",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/314969/wynajem-dlugoterminowy"
-  },
-  "314348": {
-    "id": "314348",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/314348/wynajem-dlugoterminowy"
-  },
-  "314027": {
-    "id": "314027",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/314027/wynajem-dlugoterminowy"
-  },
-  "313964": {
-    "id": "313964",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/313964/wynajem-dlugoterminowy"
+  "313871": {
+    "id": "313871",
+    "brand": "skoda",
+    "model": "superb",
+    "url": "https://automarket.pl/oferta/skoda/superb/313871/wynajem-dlugoterminowy"
   },
   "313772": {
     "id": "313772",
@@ -47,83 +23,11 @@
     "model": "a-klasa",
     "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/313772/wynajem-dlugoterminowy"
   },
-  "313745": {
-    "id": "313745",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/313745/wynajem-dlugoterminowy"
-  },
-  "313574": {
-    "id": "313574",
-    "brand": "audi",
-    "model": "q2",
-    "url": "https://automarket.pl/oferta/audi/q2/313574/leasing"
-  },
-  "313529": {
-    "id": "313529",
-    "brand": "skoda",
-    "model": "kamiq",
-    "url": "https://automarket.pl/oferta/skoda/kamiq/313529/wynajem-dlugoterminowy"
-  },
-  "313094": {
-    "id": "313094",
-    "brand": "bmw",
-    "model": "x2",
-    "url": "https://automarket.pl/oferta/bmw/x2/313094/leasing"
-  },
-  "312746": {
-    "id": "312746",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/312746/wynajem-dlugoterminowy"
-  },
-  "312740": {
-    "id": "312740",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/312740/wynajem-dlugoterminowy"
-  },
-  "312254": {
-    "id": "312254",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/312254/leasing"
-  },
-  "311510": {
-    "id": "311510",
-    "brand": "lexus",
-    "model": "ux",
-    "url": "https://automarket.pl/oferta/lexus/ux/311510/leasing"
-  },
-  "311405": {
-    "id": "311405",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/311405/wynajem-dlugoterminowy"
-  },
-  "310766": {
-    "id": "310766",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/310766/wynajem-dlugoterminowy"
-  },
-  "310199": {
-    "id": "310199",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/310199/wynajem-dlugoterminowy"
-  },
-  "308927": {
-    "id": "308927",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/308927/wynajem-dlugoterminowy"
-  },
-  "308591": {
-    "id": "308591",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/308591/wynajem-dlugoterminowy"
+  "313139": {
+    "id": "313139",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
   },
   "308513": {
     "id": "308513",
@@ -131,23 +35,11 @@
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/wynajem-dlugoterminowy"
   },
-  "308246": {
-    "id": "308246",
-    "brand": "mazda",
-    "model": "cx-30",
-    "url": "https://automarket.pl/oferta/mazda/cx-30/308246/leasing"
-  },
   "307400": {
     "id": "307400",
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
-  },
-  "306770": {
-    "id": "306770",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/306770/wynajem-dlugoterminowy"
   },
   "306425": {
     "id": "306425",
@@ -155,35 +47,11 @@
     "model": "golf",
     "url": "https://automarket.pl/oferta/volkswagen/golf/306425/wynajem-dlugoterminowy"
   },
-  "306362": {
-    "id": "306362",
-    "brand": "volvo",
-    "model": "xc40",
-    "url": "https://automarket.pl/oferta/volvo/xc40/306362/wynajem-dlugoterminowy"
-  },
-  "305426": {
-    "id": "305426",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/305426/wynajem-dlugoterminowy"
-  },
-  "304571": {
-    "id": "304571",
-    "brand": "volvo",
-    "model": "xc40",
-    "url": "https://automarket.pl/oferta/volvo/xc40/304571/wynajem-dlugoterminowy"
-  },
-  "302501": {
-    "id": "302501",
-    "brand": "kia",
-    "model": "sportage",
-    "url": "https://automarket.pl/oferta/kia/sportage/302501/leasing"
-  },
-  "301550": {
-    "id": "301550",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/301550/wynajem-dlugoterminowy"
+  "305360": {
+    "id": "305360",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
   },
   "297812": {
     "id": "297812",
@@ -191,41 +59,11 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
-  "294794": {
-    "id": "294794",
-    "brand": "alfa-romeo",
-    "model": "stelvio",
-    "url": "https://automarket.pl/oferta/alfa-romeo/stelvio/294794/leasing"
-  },
-  "293459": {
-    "id": "293459",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/293459/wynajem-dlugoterminowy"
-  },
-  "293075": {
-    "id": "293075",
-    "brand": "volkswagen",
-    "model": "tiguan",
-    "url": "https://automarket.pl/oferta/volkswagen/tiguan/293075/wynajem-dlugoterminowy"
-  },
   "292871": {
     "id": "292871",
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/292871/leasing"
-  },
-  "289370": {
-    "id": "289370",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/289370/wynajem-dlugoterminowy"
-  },
-  "287192": {
-    "id": "287192",
-    "brand": "mazda",
-    "model": "cx-30",
-    "url": "https://automarket.pl/oferta/mazda/cx-30/287192/leasing"
   },
   "275342": {
     "id": "275342",
@@ -233,59 +71,17 @@
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/275342/wynajem-dlugoterminowy"
   },
-  "272123": {
-    "id": "272123",
-    "brand": "toyota",
-    "model": "corolla",
-    "url": "https://automarket.pl/oferta/toyota/corolla/272123/wynajem-dlugoterminowy"
-  },
-  "271155": {
-    "id": "271155",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/271155/leasing"
-  },
   "312026": {
     "id": "312026",
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/312026/leasing"
   },
-  "306767": {
-    "id": "306767",
-    "brand": "hyundai",
-    "model": "kona",
-    "url": "https://automarket.pl/oferta/hyundai/kona/306767/leasing"
-  },
-  "304841": {
-    "id": "304841",
-    "brand": "alfa-romeo",
-    "model": "stelvio",
-    "url": "https://automarket.pl/oferta/alfa-romeo/stelvio/304841/leasing"
-  },
   "303974": {
     "id": "303974",
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/303974/wynajem-dlugoterminowy"
-  },
-  "303938": {
-    "id": "303938",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/303938/wynajem-dlugoterminowy"
-  },
-  "301565": {
-    "id": "301565",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/301565/wynajem-dlugoterminowy"
-  },
-  "297434": {
-    "id": "297434",
-    "brand": "hyundai",
-    "model": "tucson",
-    "url": "https://automarket.pl/oferta/hyundai/tucson/297434/wynajem-dlugoterminowy"
   },
   "294113": {
     "id": "294113",
@@ -298,11 +94,5 @@
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/287090/leasing"
-  },
-  "277718": {
-    "id": "277718",
-    "brand": "hyundai",
-    "model": "kona",
-    "url": "https://automarket.pl/oferta/hyundai/kona/277718/leasing"
   }
 }
