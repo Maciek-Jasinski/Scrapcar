@@ -23,17 +23,24 @@ jobs:
       - name: Instaluj zależności
         run: pip install -r requirements.txt
 
-      - name: Uruchom scraper
+      - name: Uruchom scraper automarket.pl
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python automarket_scraper.py
 
+      - name: Uruchom scraper findcar.pl
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python findcar_scraper.py
+
       - name: Zapisz stan (nowe/znane oferty) z powrotem do repo
         run: |
           git config user.name "automarket-bot"
           git config user.email "automarket-bot@users.noreply.github.com"
-          git add automarket_seen_offers.json
+          git add automarket_seen_offers.json findcar_seen_offers.json
           git diff --quiet --cached || git commit -m "Aktualizacja listy znanych ofert"
           git push
