@@ -358,5 +358,119 @@
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/315335/leasing"
+  },
+  "314366": {
+    "id": "314366",
+    "brand": "mazda",
+    "model": "cx-5",
+    "url": "https://automarket.pl/oferta/mazda/cx-5/314366/wynajem-dlugoterminowy"
+  },
+  "314318": {
+    "id": "314318",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/314318/leasing"
+  },
+  "313871": {
+    "id": "313871",
+    "brand": "skoda",
+    "model": "superb",
+    "url": "https://automarket.pl/oferta/skoda/superb/313871/wynajem-dlugoterminowy"
+  },
+  "313862": {
+    "id": "313862",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/313862/leasing"
+  },
+  "313553": {
+    "id": "313553",
+    "brand": "volvo",
+    "model": "v60",
+    "url": "https://automarket.pl/oferta/volvo/v60/313553/wynajem-dlugoterminowy"
+  },
+  "313139": {
+    "id": "313139",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
+  },
+  "312191": {
+    "id": "312191",
+    "brand": "bmw",
+    "model": "seria-3",
+    "url": "https://automarket.pl/oferta/bmw/seria-3/312191/leasing"
+  },
+  "311537": {
+    "id": "311537",
+    "brand": "skoda",
+    "model": "superb",
+    "url": "https://automarket.pl/oferta/skoda/superb/311537/wynajem-dlugoterminowy"
+  },
+  "311501": {
+    "id": "311501",
+    "brand": "bmw",
+    "model": "seria-3",
+    "url": "https://automarket.pl/oferta/bmw/seria-3/311501/leasing"
+  },
+  "311282": {
+    "id": "311282",
+    "brand": "volvo",
+    "model": "v60",
+    "url": "https://automarket.pl/oferta/volvo/v60/311282/wynajem-dlugoterminowy"
+  },
+  "309788": {
+    "id": "309788",
+    "brand": "mazda",
+    "model": "cx-5",
+    "url": "https://automarket.pl/oferta/mazda/cx-5/309788/wynajem-dlugoterminowy"
+  },
+  "308060": {
+    "id": "308060",
+    "brand": "volvo",
+    "model": "v60",
+    "url": "https://automarket.pl/oferta/volvo/v60/308060/wynajem-dlugoterminowy"
+  },
+  "307379": {
+    "id": "307379",
+    "brand": "toyota",
+    "model": "rav4",
+    "url": "https://automarket.pl/oferta/toyota/rav4/307379/wynajem-dlugoterminowy"
+  },
+  "307274": {
+    "id": "307274",
+    "brand": "mazda",
+    "model": "cx-5",
+    "url": "https://automarket.pl/oferta/mazda/cx-5/307274/wynajem-dlugoterminowy"
+  },
+  "306383": {
+    "id": "306383",
+    "brand": "volvo",
+    "model": "v60",
+    "url": "https://automarket.pl/oferta/volvo/v60/306383/wynajem-dlugoterminowy"
+  },
+  "306347": {
+    "id": "306347",
+    "brand": "volvo",
+    "model": "v60",
+    "url": "https://automarket.pl/oferta/volvo/v60/306347/wynajem-dlugoterminowy"
+  },
+  "305360": {
+    "id": "305360",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
+  },
+  "304850": {
+    "id": "304850",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/304850/wynajem-dlugoterminowy"
+  },
+  "222698": {
+    "id": "222698",
+    "brand": "volvo",
+    "model": "xc40",
+    "url": "https://automarket.pl/oferta/volvo/xc40/222698/wynajem-dlugoterminowy"
   }
 }
