@@ -55,7 +55,7 @@ FILTERS = {
     "warranty_protection": "1",
     "fuel_type": "Hybryda,PB",
     "gearbox_type": "Automatyczna",
-    "body_style": "Kombi,Hatchback,Sedan,SUV",
+    "body_style": "Hatchback,Sedan",
     "course": "*-55537",
     "engine_capacity": "1490-*",
     "power": "150-*",
