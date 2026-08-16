@@ -53,7 +53,7 @@ FILTERS = {
     "powerMin": "150",
     "makes": "volkswagen,toyota,skoda,alfa-romeo,jaguar,kia,lexus,mazda,mercedes-benz,volvo",
     "transmissionTypes": "automatic",
-    "bodyTypes": "liftback,compact",
+    "bodyTypes": "liftback,compact,sedan",
     "size": "45",
 }
 
