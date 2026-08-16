@@ -75,7 +75,9 @@ HEADERS = {
 }
 
 # linki do ofert wyglądają np. tak: /oferta/bmw/x3/298655/leasing?f=...
-OFFER_RE = re.compile(r"/oferta/([a-z0-9\-']+)/([a-z0-9\-']+)/(\d+)/")
+# WAŻNE: bierzemy CAŁĄ ścieżkę (łącznie z segmentem typu finansowania na końcu),
+# bo bez niego strona oferty zwraca 404.
+OFFER_RE = re.compile(r"(/oferta/[a-z0-9\-']+/[a-z0-9\-']+/\d+/[a-z\-]+)")
 
 MAX_PAGES = 300
 REQUEST_DELAY_SEC = 1.0
@@ -98,12 +100,13 @@ def parse_offers(html: str) -> dict:
         m = OFFER_RE.search(href)
         if not m:
             continue
-        brand, model, offer_id = m.groups()
+        path = m.group(1)
+        _, _, brand, model, offer_id, _offer_type = path.split("/")
         offers[offer_id] = {
             "id": offer_id,
             "brand": brand,
             "model": model,
-            "url": f"https://automarket.pl/oferta/{brand}/{model}/{offer_id}",
+            "url": f"https://automarket.pl{path}",
         }
     return offers
 
@@ -136,9 +139,10 @@ def save_seen(seen: dict) -> None:
 
 def notify_ntfy(offer: dict, topic: str) -> None:
     title = f"Automarket: {offer['brand'].upper()} {offer['model']}"
+    url = f"https://ntfy.sh/{topic}"
     try:
-        requests.post(
-            f"https://ntfy.sh/{topic}",
+        resp = requests.post(
+            url,
             data=offer["url"].encode("utf-8"),
             headers={
                 "Title": title,
@@ -148,8 +152,10 @@ def notify_ntfy(offer: dict, topic: str) -> None:
             },
             timeout=10,
         )
+        print(f"  [ntfy] POST {url} -> status {resp.status_code}: {resp.text.strip()[:200]}")
+        resp.raise_for_status()
     except requests.RequestException as exc:
-        print(f"Nie udalo sie wyslac powiadomienia ntfy: {exc}", file=sys.stderr)
+        print(f"  [ntfy] BLAD wysylki powiadomienia: {exc}", file=sys.stderr)
 
 
 def main():
