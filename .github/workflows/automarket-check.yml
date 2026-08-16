@@ -24,6 +24,8 @@ jobs:
       - name: Uruchom scraper
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python automarket_scraper.py
 
       - name: Zapisz stan (nowe/znane oferty) z powrotem do repo
