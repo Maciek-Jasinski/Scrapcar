@@ -12,7 +12,7 @@ mazda, mercedes-benz, volkswagen, volvo
 - paliwo: Hybryda, PB
 - skrzynia: automatyczna
 - nadwozie: Kombi, Hatchback, Sedan, SUV
-- przebieg <= 49 537 km
+- przebieg <= 55 537 km
 - pojemność silnika >= 1490 cm3
 - moc >= 150 KM
 - rata <= 3285 zł
