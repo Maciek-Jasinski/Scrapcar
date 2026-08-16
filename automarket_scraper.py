@@ -6,8 +6,8 @@ Sprawdza listing samochodów używanych na automarket.pl wg zadanych filtrów
 i wysyła powiadomienie push (przez ntfy.sh) gdy pojawi się nowa oferta.
 
 Filtry (marki na białej liście + reszta parametrów z podanego URL-a):
-skoda, hyundai, toyota, alfa-romeo, audi, bmw, kia, land-rover, lexus,
-mazda, mercedes-benz, opel, volkswagen, volvo
+skoda, toyota, alfa-romeo, audi, bmw, kia, land-rover, lexus,
+mazda, mercedes-benz, volkswagen, volvo
 - ochrona gwarancyjna
 - paliwo: Hybryda, PB
 - skrzynia: automatyczna
@@ -16,7 +16,7 @@ mazda, mercedes-benz, opel, volkswagen, volvo
 - pojemność silnika >= 1490 cm3
 - moc >= 150 KM
 - rata <= 3285 zł
-- cena (zakup za gotówkę) <= 110 000 zł
+- cena (zakup za gotówkę) <= 120 000 zł
 
 Wymagania:
     pip install -r requirements.txt
