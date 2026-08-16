@@ -6,27 +6,26 @@ Sprawdza listing samochodów używanych na automarket.pl wg zadanych filtrów
 i wysyła powiadomienie push (przez ntfy.sh) gdy pojawi się nowa oferta.
 
 Filtry (marki na białej liście + reszta parametrów z podanego URL-a):
-skoda, toyota, alfa-romeo, audi, bmw, kia, land-rover, lexus,
-mazda, mercedes-benz, volkswagen, volvo
+skoda, hyundai, toyota, alfa-romeo, audi, bmw, kia, land-rover, lexus,
+mazda, mercedes-benz, opel, volkswagen, volvo
 - ochrona gwarancyjna
 - paliwo: Hybryda, PB
 - skrzynia: automatyczna
 - nadwozie: Kombi, Hatchback, Sedan, SUV
-- przebieg <= 55 537 km
+- przebieg <= 49 537 km
 - pojemność silnika >= 1490 cm3
 - moc >= 150 KM
 - rata <= 3285 zł
-- cena (zakup za gotówkę) <= 120 000 zł
+- cena (zakup za gotówkę) <= 110 000 zł
+- rok produkcji >= 2022
 
 Wymagania:
     pip install -r requirements.txt
 
 Zmienne środowiskowe:
-    NTFY_TOPIC  - nazwa tematu na ntfy.sh, na który wysyłane są powiadomienia
-                  (jeśli pusta/nieustawiona, skrypt tylko wypisze wynik w konsoli)
-
-Użycie lokalne:
-    NTFY_TOPIC=twoj-tajny-temat python automarket_scraper.py
+    NTFY_TOPIC  - nazwa tematu na ntfy.sh (opcjonalne)
+    TELEGRAM_BOT_TOKEN - token bota Telegram
+    TELEGRAM_CHAT_ID   - chat_id odbiorcy
 """
 
 import argparse
@@ -43,24 +42,23 @@ from bs4 import BeautifulSoup
 
 # --- KONFIGURACJA ---
 
-# Marki wpisane bezpośrednio w ścieżkę URL (tak jak w linku od użytkownika) -
-# zostawiamy jako literalny string, bo przecinki tu są częścią ścieżki, nie query.
 BASE_PATH = (
     "https://automarket.pl/samochody/uzywane/wszystkie/"
-    "skoda,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,"
-    "mazda,mercedes-benz,volkswagen,volvo"
+    "skoda,hyundai,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,"
+    "mazda,mercedes-benz,opel,volkswagen,volvo"
 )
 
 FILTERS = {
     "warranty_protection": "1",
     "fuel_type": "Hybryda,PB",
     "gearbox_type": "Automatyczna",
-    "body_style": "Hatchback,Sedan",
-    "course": "*-55537",
+    "body_style": "Kombi,Hatchback,Sedan,SUV",
+    "course": "*-49537",
     "engine_capacity": "1490-*",
     "power": "150-*",
     "installment": "*-3285",
-    "installment_cash": "*-120000",
+    "installment_cash": "*-110000",
+    "production_year": "2022-*",
     "sort_by": "popular",
 }
 
@@ -74,9 +72,6 @@ HEADERS = {
     "Accept-Language": "pl-PL,pl;q=0.9",
 }
 
-# linki do ofert wyglądają np. tak: /oferta/bmw/x3/298655/leasing?f=...
-# WAŻNE: bierzemy CAŁĄ ścieżkę (łącznie z segmentem typu finansowania na końcu),
-# bo bez niego strona oferty zwraca 404.
 OFFER_RE = re.compile(r"(/oferta/[a-z0-9\-']+/[a-z0-9\-']+/\d+/[a-z\-]+)")
 
 MAX_PAGES = 300
@@ -200,6 +195,8 @@ def main():
     else:
         new_ids = [oid for oid in all_offers if oid not in seen]
 
+    removed_ids = [oid for oid in seen if oid not in all_offers]
+
     if new_ids:
         print(f"Znaleziono {len(new_ids)} nowych ofert:\n")
         for oid in new_ids:
@@ -217,8 +214,11 @@ def main():
     else:
         print("Brak nowych ofert.")
 
-    seen.update(all_offers)
-    save_seen(seen)
+    if removed_ids:
+        print(f"Usunieto {len(removed_ids)} ofert, ktorych juz nie ma w wynikach.")
+
+    # nadpisujemy caly stan - oferty ktorych juz nie ma w wynikach znikaja z JSON-a
+    save_seen(all_offers)
 
 
 if __name__ == "__main__":
