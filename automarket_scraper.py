@@ -47,8 +47,8 @@ from bs4 import BeautifulSoup
 # zostawiamy jako literalny string, bo przecinki tu są częścią ścieżki, nie query.
 BASE_PATH = (
     "https://automarket.pl/samochody/uzywane/wszystkie/"
-    "skoda,hyundai,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,"
-    "mazda,mercedes-benz,opel,volkswagen,volvo"
+    "skoda,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,"
+    "mazda,mercedes-benz,volkswagen,volvo"
 )
 
 FILTERS = {
@@ -56,11 +56,11 @@ FILTERS = {
     "fuel_type": "Hybryda,PB",
     "gearbox_type": "Automatyczna",
     "body_style": "Kombi,Hatchback,Sedan,SUV",
-    "course": "*-49537",
+    "course": "*-55537",
     "engine_capacity": "1490-*",
     "power": "150-*",
     "installment": "*-3285",
-    "installment_cash": "*-110000",
+    "installment_cash": "*-120000",
     "sort_by": "popular",
 }
 
