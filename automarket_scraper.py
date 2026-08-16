@@ -158,6 +158,21 @@ def notify_ntfy(offer: dict, topic: str) -> None:
         print(f"  [ntfy] BLAD wysylki powiadomienia: {exc}", file=sys.stderr)
 
 
+def notify_telegram(offer: dict, bot_token: str, chat_id: str) -> None:
+    text = f"{offer['brand'].upper()} {offer['model']}\n{offer['url']}"
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    try:
+        resp = requests.post(
+            url,
+            data={"chat_id": chat_id, "text": text, "disable_web_page_preview": False},
+            timeout=10,
+        )
+        print(f"  [telegram] POST -> status {resp.status_code}: {resp.text.strip()[:200]}")
+        resp.raise_for_status()
+    except requests.RequestException as exc:
+        print(f"  [telegram] BLAD wysylki powiadomienia: {exc}", file=sys.stderr)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -168,6 +183,8 @@ def main():
     args = parser.parse_args()
 
     ntfy_topic = os.environ.get("NTFY_TOPIC", "").strip()
+    tg_bot_token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    tg_chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     is_first_run = not STATE_FILE.exists()
 
     try:
@@ -190,6 +207,8 @@ def main():
             print(f"- {o['brand'].upper()} {o['model']} -> {o['url']}")
             if ntfy_topic:
                 notify_ntfy(o, ntfy_topic)
+            if tg_bot_token and tg_chat_id:
+                notify_telegram(o, tg_bot_token, tg_chat_id)
     elif is_first_run:
         print(
             f"Pierwsze uruchomienie: zapisano {len(all_offers)} ofert jako punkt startowy "
