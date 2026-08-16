@@ -44,16 +44,16 @@ from bs4 import BeautifulSoup
 
 BASE_PATH = (
     "https://automarket.pl/samochody/uzywane/wszystkie/"
-    "skoda,hyundai,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,"
-    "mazda,mercedes-benz,opel,volkswagen,volvo"
+    "skoda,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,"
+    "mazda,mercedes-benz,volkswagen,volvo"
 )
 
 FILTERS = {
     "warranty_protection": "1",
     "fuel_type": "Hybryda,PB",
     "gearbox_type": "Automatyczna",
-    "body_style": "Kombi,Hatchback,Sedan,SUV",
-    "course": "*-49537",
+    "body_style": "Hatchback,Sedan",
+    "course": "*-55537",
     "engine_capacity": "1490-*",
     "power": "150-*",
     "installment": "*-3285",
