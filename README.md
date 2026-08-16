@@ -7,7 +7,7 @@ z wyników (sprzedane / już niepasujące), są automatycznie usuwane z JSON-a.
 ## Podgląd wyników na żywo w przeglądarce
 
 - **Automarket** (bezpośredni link do wyszukiwania z aktualnymi filtrami):
-  https://automarket.pl/samochody/uzywane/wszystkie/skoda,hyundai,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,mazda,mercedes-benz,opel,volkswagen,volvo?warranty_protection=1&fuel_type=Hybryda,PB&gearbox_type=Automatyczna&body_style=Kombi,Hatchback,Sedan,SUV&course=*-49537&engine_capacity=1490-*&power=150-*&installment=*-3285&installment_cash=*-110000&production_year=2022-*&sort_by=popular
+  https://automarket.pl/samochody/uzywane/wszystkie/skoda,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,mazda,mercedes-benz,volkswagen,volvo?warranty_protection=1&fuel_type=Hybryda,PB&gearbox_type=Automatyczna&body_style=Hatchback,Sedan&course=*-55537&engine_capacity=1490-*&power=150-*&installment=*-3285&installment_cash=*-120000&production_year=2022-*&sort_by=popular
 
 - **FindCar** (bezpośredni link do wyszukiwania z aktualnymi filtrami):
   https://findcar.pl/znajdz-samochod?conditions=vehicle_used&fuelTypes=petrol,hybrid_hev&priceMax=120000&yearMin=2022&mileageMax=50000&mileageMin=6000&capacityMin=1400&powerMin=150&makes=volkswagen,toyota,skoda,alfa-romeo,jaguar,kia,lexus,mazda,mercedes-benz,volvo&transmissionTypes=automatic&bodyTypes=liftback,compact&size=45
