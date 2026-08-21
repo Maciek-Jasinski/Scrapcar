@@ -41,6 +41,12 @@
     "title": "KiaCeed 1.5 T-GDI 160KM DCT Business Line",
     "url": "https://findcar.pl/oferty-dealerow/kia-ceed-uzywany-2023-benzyna-szary-naped-przod-kompakt-mazowieckie-certyfikowane-uzywane-carsed-minsk-079178309"
   },
+  "097679180": {
+    "id": "097679180",
+    "brand": "skoda",
+    "title": "SkodaScala Ambition",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-opole-097679180"
+  },
   "050142980": {
     "id": "050142980",
     "brand": "skoda",
@@ -52,12 +58,6 @@
     "brand": "volkswagen",
     "title": "VolkswagenT-Roc 1.5TSI 150KM DSG Special Edition + Pakiety DSG",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-czarny-naped-przod-kompakt-wielkopolskie-volkswagen-poznan-przezmierowo-048620115"
-  },
-  "097679180": {
-    "id": "097679180",
-    "brand": "skoda",
-    "title": "SkodaScala Ambition",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-opole-097679180"
   },
   "051025074": {
     "id": "051025074",
@@ -322,5 +322,11 @@
     "brand": "skoda",
     "title": "SkodaOctavia 1.5TSI 150KM Style DSG",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2023-benzyna-czarny-naped-przod-sedan-limuzyna-mazowieckie-certyfikowane-uzywane-carsed-minsk-092687496"
+  },
+  "063130045": {
+    "id": "063130045",
+    "brand": "skoda",
+    "title": "SkodaKamiq Monte Carlo",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-kamiq-uzywany-2024-benzyna-bialy-naped-przod-kompakt-pomorskie-volkswagen-slupsk-063130045"
   }
 }
