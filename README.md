@@ -1,38 +1,59 @@
 # Scrapcar — monitor ofert samochodowych
 
-Automat sprawdza automarket.pl i findcar.pl wg poniższych filtrów i wysyła
-powiadomienia na Telegram, gdy pojawi się nowa oferta. Oferty, które znikają
-z wyników (sprzedane / już niepasujące), są automatycznie usuwane z JSON-a.
+Automat sprawdza automarket.pl i findcar.pl wg filtrow zdefiniowanych w
+`configs/*.yaml` i wysyla powiadomienia na Telegram / ntfy.sh, gdy pojawi
+sie nowa oferta. Oferty, ktore znikaja z wynikow (sprzedane / juz
+niepasujace), sa automatycznie usuwane ze stanu.
 
-## Podgląd wyników na żywo w przeglądarce
+## Dodawanie nowego monitora
 
-- **Automarket** (bezpośredni link do wyszukiwania z aktualnymi filtrami):
-  https://automarket.pl/samochody/uzywane/wszystkie/skoda,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,mazda,mercedes-benz,volkswagen,volvo?warranty_protection=1&fuel_type=Hybryda,PB&gearbox_type=Automatyczna&body_style=Hatchback,Sedan&course=*-55537&engine_capacity=1490-*&power=150-*&installment=*-3285&installment_cash=*-120000&production_year=2022-*&sort_by=popular
+1. Skopiuj `configs/_przyklad.yaml` pod nowa nazwa, np. `configs/moje-bmw.yaml`.
+2. Ustaw filtry recznie na automarket.pl / findcar.pl, skopiuj parametry
+   z paska adresu do sekcji `filters` w pliku.
+3. Commit + push (albo rece odpal `python generate_readme.py`, zeby od razu
+   zobaczyc nowa sekcje ponizej).
 
-- **FindCar** (bezpośredni link do wyszukiwania z aktualnymi filtrami):
-  https://findcar.pl/znajdz-samochod?conditions=vehicle_used&fuelTypes=petrol,hybrid_hev&priceMax=120000&yearMin=2022&mileageMax=50000&mileageMin=6000&capacityMin=1400&powerMin=150&makes=volkswagen,toyota,skoda,alfa-romeo,jaguar,kia,lexus,mazda,mercedes-benz,volvo&transmissionTypes=automatic&bodyTypes=liftback,compact,sedan&size=45
+Kazdy plik w `configs/` to niezalezny monitor - moze sledzic automarket,
+findcar, albo obie strony naraz. Nic wiecej nie trzeba zmieniac w kodzie.
 
-## Podgląd zapisanego stanu (co skrypt aktualnie "wie")
+## Reczne uruchomienie
 
-- automarket_seen_offers.json:
-  https://github.com/Maciek-Jasinski/Scrapcar/blob/main/automarket_seen_offers.json
+```
+pip install -r requirements.txt
+python run.py                        # wszystkie monitory
+python run.py --only arteon-benzyna  # tylko wybrany monitor
+python run.py --report-first-run     # zglos od razu wszystkie oferty jako nowe
+python generate_readme.py            # odswiez linki ponizej
+```
 
-- findcar_seen_offers.json:
-  https://github.com/Maciek-Jasinski/Scrapcar/blob/main/findcar_seen_offers.json
-
-(Jeśli link do pliku pokazuje 404 - plik jeszcze nie istnieje, bo workflow
-się jeszcze nie uruchomił / nie zdążył zacommitować. Odpal ręcznie w zakładce
-**Actions → Run workflow**, a po chwili plik się pojawi.)
-
-## Historia uruchomień / logi
+## Historia uruchomien / logi
 
 https://github.com/Maciek-Jasinski/Scrapcar/actions
 
-## Zmiana filtrów
+## Aktualne monitory
 
-Filtry są zaszyte w słowniku `FILTERS` na górze każdego pliku:
-- `automarket_scraper.py`
-- `findcar_scraper.py`
+<!-- MONITORS:START -->
 
-Zmieniasz tam wartości -> commit -> przy najbliższym uruchomieniu (albo
-ręcznym "Run workflow") zaczną obowiązywać nowe kryteria.
+### VW Arteon benzyna od 2022, do 70 tys km
+
+- [Szukaj na Automarket](https://automarket.pl/samochody/uzywane/wszystkie/volkswagen/arteon?production_year=2022-*&course=*-70000&fuel_type=PB&sort_by=popular)
+- [Szukaj na FindCar](https://findcar.pl/znajdz-samochod?makes=volkswagen&models=arteon&conditions=vehicle_used&fuelTypes=petrol&yearMin=2022&mileageMax=70000&size=45)
+
+Zapisany stan (co skrypt aktualnie "wie"):
+- [Automarket](https://github.com/Maciek-Jasinski/Scrapcar/blob/main/state/arteon-benzyna__automarket.json)
+- [FindCar](https://github.com/Maciek-Jasinski/Scrapcar/blob/main/state/arteon-benzyna__findcar.json)
+
+### Multi-marka hybryda/PB, automat, hatchback/sedan
+
+- [Szukaj na Automarket](https://automarket.pl/samochody/uzywane/wszystkie/skoda,toyota,alfa-romeo,audi,bmw,kia,land-rover,lexus,mazda,mercedes-benz,volkswagen,volvo?warranty_protection=1&fuel_type=Hybryda,PB&gearbox_type=Automatyczna&body_style=Hatchback,Sedan&course=*-55537&engine_capacity=1490-*&power=150-*&installment=*-3285&installment_cash=*-110000&production_year=2022-*&sort_by=popular)
+- [Szukaj na FindCar](https://findcar.pl/znajdz-samochod?conditions=vehicle_used&fuelTypes=petrol,hybrid_hev&priceMax=120000&yearMin=2022&mileageMax=50000&mileageMin=6000&capacityMin=1400&powerMin=150&makes=volkswagen,toyota,skoda,alfa-romeo,jaguar,kia,lexus,mazda,mercedes-benz,volvo&transmissionTypes=automatic&bodyTypes=liftback,compact,sedan&size=45)
+
+Zapisany stan (co skrypt aktualnie "wie"):
+- [Automarket](https://github.com/Maciek-Jasinski/Scrapcar/blob/main/state/multi-marka-hybryda-pb__automarket.json)
+- [FindCar](https://github.com/Maciek-Jasinski/Scrapcar/blob/main/state/multi-marka-hybryda-pb__findcar.json)
+
+<!-- MONITORS:END -->
+
+(Jesli link do pliku stanu pokazuje 404 - plik jeszcze nie istnieje, bo
+workflow sie jeszcze nie uruchomil. Odpal recznie w zakladce
+**Actions → Run workflow**, a po chwili plik sie pojawi.)
