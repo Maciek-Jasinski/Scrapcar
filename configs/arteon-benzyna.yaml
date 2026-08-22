@@ -10,6 +10,7 @@ automarket:
     course: "*-70000"
     fuel_type: "PB"
     sort_by: popular
+    power: "180-300"
 
 findcar:
   filters:
@@ -20,3 +21,5 @@ findcar:
     yearMin: "2022"
     mileageMax: "70000"
     size: "45"
+    powerMin: "180"
+    powerMax: "300"
