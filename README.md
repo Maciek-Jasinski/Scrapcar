@@ -36,8 +36,8 @@ https://github.com/Maciek-Jasinski/Scrapcar/actions
 
 ### VW Arteon benzyna od 2022, do 70 tys km
 
-- [Szukaj na Automarket](https://automarket.pl/samochody/uzywane/wszystkie/volkswagen/arteon?production_year=2022-*&course=*-70000&fuel_type=PB&sort_by=popular)
-- [Szukaj na FindCar](https://findcar.pl/znajdz-samochod?makes=volkswagen&models=arteon&conditions=vehicle_used&fuelTypes=petrol&yearMin=2022&mileageMax=70000&size=45)
+- [Szukaj na Automarket](https://automarket.pl/samochody/uzywane/wszystkie/volkswagen/arteon?production_year=2022-*&course=*-70000&fuel_type=PB&sort_by=popular&power=180-300)
+- [Szukaj na FindCar](https://findcar.pl/znajdz-samochod?makes=volkswagen&models=arteon&conditions=vehicle_used&fuelTypes=petrol&yearMin=2022&mileageMax=70000&size=45&powerMin=180&powerMax=300)
 
 Zapisany stan (co skrypt aktualnie "wie"):
 - [Automarket](https://github.com/Maciek-Jasinski/Scrapcar/blob/main/state/arteon-benzyna__automarket.json)
