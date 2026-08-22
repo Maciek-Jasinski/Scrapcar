@@ -1,39 +1,21 @@
 {
-  "315941": {
-    "id": "315941",
-    "brand": "bmw",
-    "model": "seria-2",
-    "url": "https://automarket.pl/oferta/bmw/seria-2/315941/wynajem-dlugoterminowy"
-  },
   "315347": {
     "id": "315347",
     "brand": "volkswagen",
     "model": "golf",
     "url": "https://automarket.pl/oferta/volkswagen/golf/315347/wynajem-dlugoterminowy"
   },
-  "315191": {
-    "id": "315191",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/315191/wynajem-dlugoterminowy"
-  },
-  "313871": {
-    "id": "313871",
-    "brand": "skoda",
-    "model": "superb",
-    "url": "https://automarket.pl/oferta/skoda/superb/313871/wynajem-dlugoterminowy"
-  },
-  "313772": {
-    "id": "313772",
-    "brand": "mercedes-benz",
-    "model": "a-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/313772/wynajem-dlugoterminowy"
-  },
   "313139": {
     "id": "313139",
     "brand": "mazda",
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
+  },
+  "312638": {
+    "id": "312638",
+    "brand": "skoda",
+    "model": "karoq",
+    "url": "https://automarket.pl/oferta/skoda/karoq/312638/leasing"
   },
   "308513": {
     "id": "308513",
@@ -53,11 +35,53 @@
     "model": "golf",
     "url": "https://automarket.pl/oferta/volkswagen/golf/306425/wynajem-dlugoterminowy"
   },
+  "305555": {
+    "id": "305555",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/305555/leasing"
+  },
   "305360": {
     "id": "305360",
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
+  },
+  "305201": {
+    "id": "305201",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/305201/leasing"
+  },
+  "302468": {
+    "id": "302468",
+    "brand": "skoda",
+    "model": "scala",
+    "url": "https://automarket.pl/oferta/skoda/scala/302468/leasing"
+  },
+  "301529": {
+    "id": "301529",
+    "brand": "kia",
+    "model": "xceed",
+    "url": "https://automarket.pl/oferta/kia/xceed/301529/leasing"
+  },
+  "301376": {
+    "id": "301376",
+    "brand": "skoda",
+    "model": "karoq",
+    "url": "https://automarket.pl/oferta/skoda/karoq/301376/leasing"
+  },
+  "299813": {
+    "id": "299813",
+    "brand": "kia",
+    "model": "xceed",
+    "url": "https://automarket.pl/oferta/kia/xceed/299813/leasing"
+  },
+  "297761": {
+    "id": "297761",
+    "brand": "skoda",
+    "model": "karoq",
+    "url": "https://automarket.pl/oferta/skoda/karoq/297761/leasing"
   },
   "297812": {
     "id": "297812",
@@ -65,11 +89,53 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
+  "297668": {
+    "id": "297668",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/297668/leasing"
+  },
+  "296477": {
+    "id": "296477",
+    "brand": "kia",
+    "model": "xceed",
+    "url": "https://automarket.pl/oferta/kia/xceed/296477/leasing"
+  },
+  "295451": {
+    "id": "295451",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/295451/wynajem-dlugoterminowy"
+  },
   "292871": {
     "id": "292871",
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/292871/leasing"
+  },
+  "291728": {
+    "id": "291728",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/291728/leasing"
+  },
+  "291722": {
+    "id": "291722",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/291722/leasing"
+  },
+  "288431": {
+    "id": "288431",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/288431/wynajem-dlugoterminowy"
+  },
+  "287273": {
+    "id": "287273",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/287273/leasing"
   },
   "287090": {
     "id": "287090",
@@ -77,11 +143,83 @@
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/287090/leasing"
   },
+  "286220": {
+    "id": "286220",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/286220/leasing"
+  },
+  "285965": {
+    "id": "285965",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/285965/wynajem-dlugoterminowy"
+  },
+  "285638": {
+    "id": "285638",
+    "brand": "kia",
+    "model": "k4",
+    "url": "https://automarket.pl/oferta/kia/k4/285638/leasing"
+  },
+  "281156": {
+    "id": "281156",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/281156/wynajem-dlugoterminowy"
+  },
+  "280301": {
+    "id": "280301",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/280301/wynajem-dlugoterminowy"
+  },
+  "280331": {
+    "id": "280331",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/280331/leasing"
+  },
+  "277262": {
+    "id": "277262",
+    "brand": "volkswagen",
+    "model": "arteon",
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/277262/leasing"
+  },
+  "276404": {
+    "id": "276404",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/276404/leasing"
+  },
+  "273809": {
+    "id": "273809",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/273809/leasing"
+  },
+  "271353": {
+    "id": "271353",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/271353/leasing"
+  },
+  "265163": {
+    "id": "265163",
+    "brand": "volvo",
+    "model": "s60",
+    "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
+  },
   "312026": {
     "id": "312026",
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/312026/leasing"
+  },
+  "302531": {
+    "id": "302531",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/302531/leasing"
   },
   "294113": {
     "id": "294113",
