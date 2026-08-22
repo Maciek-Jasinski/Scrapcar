@@ -1,0 +1,42 @@
+name: Sprawdz oferty
+
+on:
+  schedule:
+    - cron: "0 7-16 * * 1-5"   # pon-pt, co godzine 9:00-18:00 czasu polskiego (UTC+2 latem)
+    - cron: "0 7,10 * * 6"     # sobota, co 3 godziny 9:00-14:00 czasu polskiego
+    - cron: "0 10 * * 0"       # niedziela, raz dziennie o 12:00 czasu polskiego
+  workflow_dispatch: {}         # pozwala odpalic recznie z zakladki Actions
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instaluj zaleznosci
+        run: pip install -r requirements.txt
+
+      - name: Uruchom wszystkie monitory z configs/
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python run.py
+
+      - name: Odswiez linki w README
+        run: python generate_readme.py
+
+      - name: Zapisz stan i README z powrotem do repo
+        run: |
+          git config user.name "scrapcar-bot"
+          git config user.email "scrapcar-bot@users.noreply.github.com"
+          git add state/ README.md
+          git diff --quiet --cached || git commit -m "Aktualizacja listy znanych ofert"
+          git push
