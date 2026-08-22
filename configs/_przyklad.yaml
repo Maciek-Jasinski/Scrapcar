@@ -1,0 +1,34 @@
+# _przyklad.yaml - NIE jest wczytywany (nazwa zaczyna sie od "_").
+# Skopiuj ten plik pod nowa nazwa (np. "moje-bmw.yaml") i uzupelnij filtry.
+#
+# Nazwa pliku (bez rozszerzenia) staje sie "slugiem" monitora - uzywana jest
+# w nazwach plikow stanu (state/<slug>__<site>.json) oraz jako --only <slug>.
+# Mozesz nadpisac slug polem 'slug' ponizej, jesli chcesz inna nazwe pliku.
+
+name: "Nazwa monitora widoczna w README i powiadomieniach"
+# slug: moj-wlasny-slug   # opcjonalne, domyslnie nazwa pliku
+
+# Sekcja automarket jest opcjonalna - pomin ja, jesli nie chcesz sledzic tej strony.
+automarket:
+  brands: [volkswagen]     # jedna lub wiecej marek (lista -> URL wielo-markowy)
+  model: arteon             # opcjonalne, dziala tylko przy jednej marce
+  filters:
+    production_year: "2022-*"   # rok produkcji od-do, "*" = brak ograniczenia
+    course: "*-70000"           # przebieg do-od w km
+    fuel_type: "PB"              # PB=benzyna, ON=diesel, Hybryda, Elektryczny...
+    gearbox_type: "Automatyczna"
+    sort_by: popular
+
+# Sekcja findcar jest opcjonalna - pomin ja, jesli nie chcesz sledzic tej strony.
+findcar:
+  filters:
+    makes: volkswagen
+    models: arteon
+    conditions: vehicle_used
+    fuelTypes: petrol
+    yearMin: "2022"
+    mileageMax: "70000"
+    size: "45"
+
+# Wskazowka: najlatwiej ustawic filtry recznie na stronie automarket.pl /
+# findcar.pl, a potem skopiowac parametry z paska adresu do sekcji 'filters'.

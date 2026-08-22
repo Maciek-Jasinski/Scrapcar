@@ -1,0 +1,22 @@
+# VW Arteon, rocznik 2022+, benzyna, przebieg do 70 000 km.
+
+name: "VW Arteon benzyna od 2022, do 70 tys km"
+
+automarket:
+  brands: [volkswagen]
+  model: arteon
+  filters:
+    production_year: "2022-*"
+    course: "*-70000"
+    fuel_type: "PB"
+    sort_by: popular
+
+findcar:
+  filters:
+    makes: volkswagen
+    models: arteon
+    conditions: vehicle_used
+    fuelTypes: petrol
+    yearMin: "2022"
+    mileageMax: "70000"
+    size: "45"
