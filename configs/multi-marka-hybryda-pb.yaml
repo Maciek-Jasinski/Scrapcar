@@ -26,8 +26,7 @@ automarket:
     course: "*-55537"
     engine_capacity: "1490-*"
     power: "150-*"
-    installment: "*-3285"
-    installment_cash: "*-110000"
+    installment: "*-2060"
     production_year: "2022-*"
     sort_by: popular
 
