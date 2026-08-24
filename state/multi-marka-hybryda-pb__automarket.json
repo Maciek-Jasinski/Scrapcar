@@ -17,12 +17,6 @@
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/312638/leasing"
   },
-  "308513": {
-    "id": "308513",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/wynajem-dlugoterminowy"
-  },
   "307400": {
     "id": "307400",
     "brand": "volkswagen",
@@ -214,6 +208,12 @@
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/312026/leasing"
+  },
+  "308513": {
+    "id": "308513",
+    "brand": "volkswagen",
+    "model": "t-roc",
+    "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/wynajem-dlugoterminowy"
   },
   "302531": {
     "id": "302531",
