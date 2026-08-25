@@ -1,15 +1,21 @@
 {
-  "307835": {
-    "id": "307835",
-    "brand": "toyota",
-    "model": "camry",
-    "url": "https://automarket.pl/oferta/toyota/camry/307835/leasing"
-  },
   "274634": {
     "id": "274634",
     "brand": "toyota",
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/274634/leasing"
+  },
+  "316847": {
+    "id": "316847",
+    "brand": "skoda",
+    "model": "scala",
+    "url": "https://automarket.pl/oferta/skoda/scala/316847/leasing"
+  },
+  "316853": {
+    "id": "316853",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/316853/leasing"
   },
   "315869": {
     "id": "315869",
@@ -59,6 +65,12 @@
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/312638/leasing"
   },
+  "307835": {
+    "id": "307835",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/307835/leasing"
+  },
   "307400": {
     "id": "307400",
     "brand": "volkswagen",
@@ -106,6 +118,12 @@
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/304067/leasing"
+  },
+  "302531": {
+    "id": "302531",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/302531/leasing"
   },
   "302468": {
     "id": "302468",
@@ -334,12 +352,6 @@
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/leasing"
-  },
-  "302531": {
-    "id": "302531",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/302531/leasing"
   },
   "294113": {
     "id": "294113",
