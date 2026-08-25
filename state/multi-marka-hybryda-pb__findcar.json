@@ -215,6 +215,12 @@
     "title": "SkodaOctavia",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-bialy-naped-przod-sedan-limuzyna-lodzkie-volkswagen-krotoski-lodz-050066052"
   },
+  "042351782": {
+    "id": "042351782",
+    "brand": "kia",
+    "title": "KiaXCeed 1.6 TGDi 150KM; Wersja: Business -Line 7DCT",
+    "url": "https://findcar.pl/oferty-dealerow/kia-xceed-uzywany-2026-benzynowy-inny-kolor-naped-przod-hatchback-mazowieckie-kia-pgd-warszawa-torunska-042351782"
+  },
   "087712651": {
     "id": "087712651",
     "brand": "volkswagen",
@@ -226,12 +232,6 @@
     "brand": "skoda",
     "title": "SkodaKamiq Ambition",
     "url": "https://findcar.pl/oferty-dealerow/skoda-kamiq-uzywany-2023-benzyna-srebrny-naped-przod-kompakt-wielkopolskie-skoda-porsche-poznan-obornicka-076692648"
-  },
-  "042351782": {
-    "id": "042351782",
-    "brand": "kia",
-    "title": "KiaXCeed 1.6 TGDi 150KM; Wersja: Business -Line 7DCT",
-    "url": "https://findcar.pl/oferty-dealerow/kia-xceed-uzywany-2026-benzynowy-inny-kolor-naped-przod-hatchback-mazowieckie-kia-pgd-warszawa-torunska-042351782"
   },
   "057028260": {
     "id": "057028260",
@@ -287,17 +287,17 @@
     "title": "VolkswagenT-Roc Style 1.5 TSI 110 kW / 150 KM automatyczna, DSG 7-stopniowa",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-bezowy-naped-przod-kompakt-mazowieckie-skoda-warszawa-wawer-016390405"
   },
-  "082508551": {
-    "id": "082508551",
-    "brand": "volkswagen",
-    "title": "VolkswagenPolo GTI 206 KM DSG",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-polo-uzywany-2024-benzyna-czarny-naped-przod-kompakt-wielkopolskie-volkswagen-centrum-poznan-komorniki-082508551"
-  },
   "063130045": {
     "id": "063130045",
     "brand": "skoda",
     "title": "SkodaKamiq 1.5TSI 150KM FV23% DSG Monte Carlo Pakiet Convenience Plus Pakiet Simply Clever Basic Pakiet Winter Plus Bezwypadkowy Serwisowany ASO Gwarancja i Pakiet serwisowy",
     "url": "https://findcar.pl/oferty-dealerow/skoda-kamiq-uzywany-2024-benzyna-bialy-naped-przod-kompakt-pomorskie-volkswagen-slupsk-063130045"
+  },
+  "082508551": {
+    "id": "082508551",
+    "brand": "volkswagen",
+    "title": "VolkswagenPolo GTI 206 KM DSG",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-polo-uzywany-2024-benzyna-czarny-naped-przod-kompakt-wielkopolskie-volkswagen-centrum-poznan-komorniki-082508551"
   },
   "063709730": {
     "id": "063709730",
