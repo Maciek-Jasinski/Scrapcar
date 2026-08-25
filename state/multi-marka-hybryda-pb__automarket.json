@@ -185,12 +185,6 @@
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/297761/leasing"
   },
-  "297812": {
-    "id": "297812",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
-  },
   "297710": {
     "id": "297710",
     "brand": "mercedes-benz",
@@ -352,6 +346,12 @@
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/leasing"
+  },
+  "297812": {
+    "id": "297812",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
   "294113": {
     "id": "294113",
