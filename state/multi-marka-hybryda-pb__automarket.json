@@ -47,12 +47,6 @@
     "model": "superb",
     "url": "https://automarket.pl/oferta/skoda/superb/313871/leasing"
   },
-  "313772": {
-    "id": "313772",
-    "brand": "mercedes-benz",
-    "model": "a-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/313772/leasing"
-  },
   "313139": {
     "id": "313139",
     "brand": "mazda",
@@ -160,12 +154,6 @@
     "brand": "skoda",
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/301376/leasing"
-  },
-  "299813": {
-    "id": "299813",
-    "brand": "kia",
-    "model": "xceed",
-    "url": "https://automarket.pl/oferta/kia/xceed/299813/leasing"
   },
   "298430": {
     "id": "298430",
@@ -329,11 +317,11 @@
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
   },
-  "312026": {
-    "id": "312026",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/312026/leasing"
+  "313772": {
+    "id": "313772",
+    "brand": "mercedes-benz",
+    "model": "a-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/313772/leasing"
   },
   "308513": {
     "id": "308513",
@@ -346,12 +334,6 @@
     "brand": "mazda",
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
-  },
-  "294113": {
-    "id": "294113",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/294113/leasing"
   },
   "287090": {
     "id": "287090",
