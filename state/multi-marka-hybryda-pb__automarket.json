@@ -5,6 +5,24 @@
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/274634/leasing"
   },
+  "317345": {
+    "id": "317345",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/317345/leasing"
+  },
+  "316535": {
+    "id": "316535",
+    "brand": "volkswagen",
+    "model": "golf",
+    "url": "https://automarket.pl/oferta/volkswagen/golf/316535/leasing"
+  },
+  "317369": {
+    "id": "317369",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/317369/leasing"
+  },
   "316847": {
     "id": "316847",
     "brand": "skoda",
@@ -64,12 +82,6 @@
     "brand": "toyota",
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/307835/leasing"
-  },
-  "307400": {
-    "id": "307400",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
   },
   "306209": {
     "id": "306209",
@@ -328,6 +340,12 @@
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/leasing"
+  },
+  "307400": {
+    "id": "307400",
+    "brand": "volkswagen",
+    "model": "t-roc",
+    "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
   },
   "297812": {
     "id": "297812",
