@@ -8,8 +8,23 @@ monitora (configu), zeby od razu bylo wiadomo, ktory filtr go zlapal.
 from __future__ import annotations
 
 import sys
+import unicodedata
 
 import requests
+
+
+def _ascii_header(value: str) -> str:
+    """ntfy/urllib3 wymagaja naglowkow kodowalnych w latin-1/ASCII.
+    Zamieniamy polskie znaki diakrytyczne na najblizszy odpowiednik ASCII,
+    zeby uniknac UnicodeEncodeError przy wysylce (np. tytuly ofert z 'ł', 'ą', itd).
+    """
+    # normalize("NFKD") nie rozbija polskiego 'ł'/'Ł' (brak dekompozycji Unicode),
+    # wiec podmieniamy je recznie PRZED encode(..., "ignore"), inaczej zostalyby
+    # bezpowrotnie usuniete zamiast zamienione na 'l'/'L'.
+    value = value.replace("\u0142", "l").replace("\u0141", "L")
+    normalized = unicodedata.normalize("NFKD", value)
+    ascii_only = normalized.encode("ascii", "ignore").decode("ascii")
+    return ascii_only
 
 
 def notify_ntfy(monitor_name: str, site_display_name: str, title: str, url: str, topic: str) -> None:
@@ -20,7 +35,7 @@ def notify_ntfy(monitor_name: str, site_display_name: str, title: str, url: str,
             ntfy_url,
             data=url.encode("utf-8"),
             headers={
-                "Title": full_title,
+                "Title": _ascii_header(full_title),
                 "Click": url,
                 "Priority": "default",
                 "Tags": "car",
