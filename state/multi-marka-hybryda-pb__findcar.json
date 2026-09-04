@@ -59,6 +59,12 @@
     "title": "SkodaScala Ambition",
     "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-opole-000652471"
   },
+  "075309106": {
+    "id": "075309106",
+    "brand": "volkswagen",
+    "title": "VolkswagenPolo GTI 206 KM DSG + Pakiet drogowy + Pakiet IQ + Pakiet Czujnik deszczu",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-polo-uzywany-2024-benzyna-czerwony-naped-przod-kompakt-wielkopolskie-volkswagen-centrum-poznan-komorniki-075309106"
+  },
   "060404309": {
     "id": "060404309",
     "brand": "toyota",
@@ -76,12 +82,6 @@
     "brand": "volkswagen",
     "title": "VolkswagenT-Roc Life 1.5 TSI 110 kW / 150 KM automatyczna, DSG 7-stopniowa",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2025-benzyna-szary-naped-przod-kompakt-mazowieckie-volkswagen-warszawa-piaseczno-076300558"
-  },
-  "075309106": {
-    "id": "075309106",
-    "brand": "volkswagen",
-    "title": "VolkswagenPolo GTI 206 KM DSG + Pakiet drogowy + Pakiet IQ + Pakiet Czujnik deszczu",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-polo-uzywany-2024-benzyna-czerwony-naped-przod-kompakt-wielkopolskie-volkswagen-centrum-poznan-komorniki-075309106"
   },
   "091369126": {
     "id": "091369126",
@@ -275,17 +275,17 @@
     "title": "SkodaOctavia Selection",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2024-benzyna-niebieski-naped-przod-kompakt-slaskie-certyfikowane-uzywane-lellek-gliwice-091936743"
   },
-  "040707179": {
-    "id": "040707179",
-    "brand": "skoda",
-    "title": "SkodaKamiq 1.5TSI 150KM FV23% Edition 130 Pakiet Convenience Plus Pakiet Winter Premium Gwarancja producenta do 2028 Salon Polska Bezwypadkowy",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-kamiq-uzywany-2025-benzyna-szary-naped-przod-kompakt-pomorskie-volkswagen-slupsk-040707179"
-  },
   "040050566": {
     "id": "040050566",
     "brand": "skoda",
     "title": "SkodaScala Style",
     "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-szary-naped-przod-kompakt-slaskie-volkswagen-krotoski-czestochowa-040050566"
+  },
+  "040707179": {
+    "id": "040707179",
+    "brand": "skoda",
+    "title": "SkodaKamiq 1.5TSI 150KM FV23% Edition 130 Pakiet Convenience Plus Pakiet Winter Premium Gwarancja producenta do 2028 Salon Polska Bezwypadkowy",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-kamiq-uzywany-2025-benzyna-szary-naped-przod-kompakt-pomorskie-volkswagen-slupsk-040707179"
   },
   "063709730": {
     "id": "063709730",
@@ -305,17 +305,17 @@
     "title": "VolkswagenT-Roc Style 1.5 TSI 110 kW / 150 KM automatyczna, DSG 7-stopniowa",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-szary-naped-przod-kompakt-wielkopolskie-volkswagen-poznan-przezmierowo-068019668"
   },
-  "034548828": {
-    "id": "034548828",
-    "brand": "volkswagen",
-    "title": "VolkswagenT-Cross Style",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-cross-uzywany-2023-benzyna-szary-naped-przod-kompakt-slaskie-certyfikowane-uzywane-porsche-sosnowiec-034548828"
-  },
   "055257772": {
     "id": "055257772",
     "brand": "skoda",
     "title": "SkodaScala Style 1.5 TSI 110 kW 7-biegowa przekładnia automatyczna DSG",
     "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-szary-naped-przod-kompakt-wielkopolskie-certyfikowane-uzywane-ignaszak-kalisz-055257772"
+  },
+  "034548828": {
+    "id": "034548828",
+    "brand": "volkswagen",
+    "title": "VolkswagenT-Cross Style",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-cross-uzywany-2023-benzyna-szary-naped-przod-kompakt-slaskie-certyfikowane-uzywane-porsche-sosnowiec-034548828"
   },
   "027381813": {
     "id": "027381813",
