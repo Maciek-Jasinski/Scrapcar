@@ -71,12 +71,6 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
-  "230775": {
-    "id": "230775",
-    "brand": "lexus",
-    "model": "es",
-    "url": "https://automarket.pl/oferta/lexus/es/230775/leasing"
-  },
   "318569": {
     "id": "318569",
     "brand": "skoda",
@@ -142,6 +136,12 @@
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/315191/leasing"
+  },
+  "313772": {
+    "id": "313772",
+    "brand": "mercedes-benz",
+    "model": "a-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/313772/leasing"
   },
   "313139": {
     "id": "313139",
@@ -209,12 +209,6 @@
     "model": "superb",
     "url": "https://automarket.pl/oferta/skoda/superb/302279/leasing"
   },
-  "301835": {
-    "id": "301835",
-    "brand": "audi",
-    "model": "a6",
-    "url": "https://automarket.pl/oferta/audi/a6/301835/leasing"
-  },
   "301529": {
     "id": "301529",
     "brand": "kia",
@@ -238,12 +232,6 @@
     "brand": "mercedes-benz",
     "model": "c-klasa",
     "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/298103/leasing"
-  },
-  "297761": {
-    "id": "297761",
-    "brand": "skoda",
-    "model": "karoq",
-    "url": "https://automarket.pl/oferta/skoda/karoq/297761/leasing"
   },
   "297710": {
     "id": "297710",
@@ -394,11 +382,5 @@
     "brand": "skoda",
     "model": "superb",
     "url": "https://automarket.pl/oferta/skoda/superb/313871/leasing"
-  },
-  "313772": {
-    "id": "313772",
-    "brand": "mercedes-benz",
-    "model": "a-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/313772/leasing"
   }
 }
