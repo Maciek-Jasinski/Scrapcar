@@ -23,12 +23,6 @@
     "model": "c-klasa",
     "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306557/leasing"
   },
-  "305555": {
-    "id": "305555",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/305555/leasing"
-  },
   "304730": {
     "id": "304730",
     "brand": "bmw",
@@ -184,12 +178,6 @@
     "brand": "volkswagen",
     "model": "golf",
     "url": "https://automarket.pl/oferta/volkswagen/golf/306425/leasing"
-  },
-  "305360": {
-    "id": "305360",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
   },
   "305201": {
     "id": "305201",
@@ -400,5 +388,11 @@
     "brand": "skoda",
     "model": "superb",
     "url": "https://automarket.pl/oferta/skoda/superb/313871/leasing"
+  },
+  "305360": {
+    "id": "305360",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
   }
 }
