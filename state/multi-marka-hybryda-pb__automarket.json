@@ -59,17 +59,23 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
+  "320846": {
+    "id": "320846",
+    "brand": "alfa-romeo",
+    "model": "giulia",
+    "url": "https://automarket.pl/oferta/alfa-romeo/giulia/320846/leasing"
+  },
+  "322829": {
+    "id": "322829",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/322829/leasing"
+  },
   "322793": {
     "id": "322793",
     "brand": "skoda",
     "model": "superb",
     "url": "https://automarket.pl/oferta/skoda/superb/322793/leasing"
-  },
-  "322643": {
-    "id": "322643",
-    "brand": "skoda",
-    "model": "superb",
-    "url": "https://automarket.pl/oferta/skoda/superb/322643/leasing"
   },
   "322625": {
     "id": "322625",
@@ -112,12 +118,6 @@
     "brand": "volkswagen",
     "model": "golf",
     "url": "https://automarket.pl/oferta/volkswagen/golf/318386/leasing"
-  },
-  "318569": {
-    "id": "318569",
-    "brand": "skoda",
-    "model": "scala",
-    "url": "https://automarket.pl/oferta/skoda/scala/318569/leasing"
   },
   "318452": {
     "id": "318452",
@@ -197,12 +197,6 @@
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
   },
-  "306209": {
-    "id": "306209",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/306209/wynajem-dlugoterminowy"
-  },
   "306425": {
     "id": "306425",
     "brand": "volkswagen",
@@ -214,12 +208,6 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/305237/leasing"
-  },
-  "304067": {
-    "id": "304067",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/304067/leasing"
   },
   "302531": {
     "id": "302531",
@@ -400,6 +388,18 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
+  },
+  "322643": {
+    "id": "322643",
+    "brand": "skoda",
+    "model": "superb",
+    "url": "https://automarket.pl/oferta/skoda/superb/322643/leasing"
+  },
+  "318569": {
+    "id": "318569",
+    "brand": "skoda",
+    "model": "scala",
+    "url": "https://automarket.pl/oferta/skoda/scala/318569/leasing"
   },
   "313871": {
     "id": "313871",
