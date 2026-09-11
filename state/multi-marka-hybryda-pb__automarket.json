@@ -71,12 +71,6 @@
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/322829/leasing"
   },
-  "322793": {
-    "id": "322793",
-    "brand": "skoda",
-    "model": "superb",
-    "url": "https://automarket.pl/oferta/skoda/superb/322793/leasing"
-  },
   "322625": {
     "id": "322625",
     "brand": "skoda",
@@ -329,12 +323,6 @@
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/285965/leasing"
   },
-  "285638": {
-    "id": "285638",
-    "brand": "kia",
-    "model": "k4",
-    "url": "https://automarket.pl/oferta/kia/k4/285638/leasing"
-  },
   "281156": {
     "id": "281156",
     "brand": "toyota",
@@ -388,6 +376,12 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
+  },
+  "322793": {
+    "id": "322793",
+    "brand": "skoda",
+    "model": "superb",
+    "url": "https://automarket.pl/oferta/skoda/superb/322793/leasing"
   },
   "322643": {
     "id": "322643",
