@@ -53,17 +53,17 @@
     "title": "VolkswagenArteon Shooting Brake",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-niebieski-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-sosnowiec-094805888"
   },
-  "094969347": {
-    "id": "094969347",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake R-Line",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-094969347"
-  },
   "030422026": {
     "id": "030422026",
     "brand": "volkswagen",
     "title": "VolkswagenArteon",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2022-benzyna-niebieski-naped-przod-sedan-limuzyna-lodzkie-volkswagen-krotoski-lodz-030422026"
+  },
+  "094969347": {
+    "id": "094969347",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake R-Line",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-094969347"
   },
   "028054641": {
     "id": "028054641",
@@ -119,22 +119,28 @@
     "title": "VolkswagenArteon",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-czarny-naped-przod-kombi-wielkopolskie-certyfikowane-uzywane-rzepecki-mroczkowski-poznan-sanocka-086545360"
   },
-  "008492999": {
-    "id": "008492999",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-srebrny-naped-przod-sedan-limuzyna-wielkopolskie-certyfikowane-uzywane-rzepecki-mroczkowski-poznan-sanocka-008492999"
-  },
   "061824428": {
     "id": "061824428",
     "brand": "volkswagen",
     "title": "VolkswagenArteon",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-czerwony-naped-przod-kombi-wielkopolskie-certyfikowane-uzywane-rzepecki-mroczkowski-poznan-sanocka-061824428"
   },
+  "008492999": {
+    "id": "008492999",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-srebrny-naped-przod-sedan-limuzyna-wielkopolskie-certyfikowane-uzywane-rzepecki-mroczkowski-poznan-sanocka-008492999"
+  },
   "065591570": {
     "id": "065591570",
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake R-Line",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-065591570"
+  },
+  "007668468": {
+    "id": "007668468",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-czarny-naped-przod-kombi-malopolskie-volkswagen-porsche-krakow-zakopianska-007668468"
   }
 }

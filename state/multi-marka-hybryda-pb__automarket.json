@@ -77,12 +77,6 @@
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/322625/leasing"
   },
-  "322190": {
-    "id": "322190",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/322190/leasing"
-  },
   "322064": {
     "id": "322064",
     "brand": "audi",
@@ -148,12 +142,6 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/315869/leasing"
-  },
-  "315941": {
-    "id": "315941",
-    "brand": "bmw",
-    "model": "seria-2",
-    "url": "https://automarket.pl/oferta/bmw/seria-2/315941/leasing"
   },
   "315347": {
     "id": "315347",
@@ -382,6 +370,12 @@
     "brand": "skoda",
     "model": "superb",
     "url": "https://automarket.pl/oferta/skoda/superb/322643/leasing"
+  },
+  "322190": {
+    "id": "322190",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/322190/leasing"
   },
   "318569": {
     "id": "318569",
