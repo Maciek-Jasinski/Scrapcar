@@ -53,6 +53,12 @@
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/322829/leasing"
   },
+  "322793": {
+    "id": "322793",
+    "brand": "skoda",
+    "model": "superb",
+    "url": "https://automarket.pl/oferta/skoda/superb/322793/wynajem-dlugoterminowy"
+  },
   "322190": {
     "id": "322190",
     "brand": "mazda",
@@ -94,12 +100,6 @@
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
-  },
-  "306425": {
-    "id": "306425",
-    "brand": "volkswagen",
-    "model": "golf",
-    "url": "https://automarket.pl/oferta/volkswagen/golf/306425/wynajem-dlugoterminowy"
   },
   "305360": {
     "id": "305360",
@@ -221,12 +221,6 @@
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
   },
-  "322793": {
-    "id": "322793",
-    "brand": "skoda",
-    "model": "superb",
-    "url": "https://automarket.pl/oferta/skoda/superb/322793/wynajem-dlugoterminowy"
-  },
   "322064": {
     "id": "322064",
     "brand": "audi",
@@ -238,5 +232,11 @@
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/318404/leasing"
+  },
+  "306425": {
+    "id": "306425",
+    "brand": "volkswagen",
+    "model": "golf",
+    "url": "https://automarket.pl/oferta/volkswagen/golf/306425/wynajem-dlugoterminowy"
   }
 }
