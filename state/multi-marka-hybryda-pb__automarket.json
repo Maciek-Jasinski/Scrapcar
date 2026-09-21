@@ -5,6 +5,12 @@
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/306950/leasing"
   },
+  "314060": {
+    "id": "314060",
+    "brand": "alfa-romeo",
+    "model": "stelvio",
+    "url": "https://automarket.pl/oferta/alfa-romeo/stelvio/314060/leasing"
+  },
   "307142": {
     "id": "307142",
     "brand": "mercedes-benz",
@@ -17,17 +23,17 @@
     "model": "c-klasa",
     "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306956/leasing"
   },
+  "306641": {
+    "id": "306641",
+    "brand": "bmw",
+    "model": "x2",
+    "url": "https://automarket.pl/oferta/bmw/x2/306641/leasing"
+  },
   "306557": {
     "id": "306557",
     "brand": "mercedes-benz",
     "model": "c-klasa",
     "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306557/leasing"
-  },
-  "292871": {
-    "id": "292871",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/292871/leasing"
   },
   "277262": {
     "id": "277262",
@@ -46,6 +52,12 @@
     "brand": "mazda",
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
+  },
+  "292871": {
+    "id": "292871",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/292871/leasing"
   },
   "322793": {
     "id": "322793",
@@ -77,6 +89,48 @@
     "model": "scala",
     "url": "https://automarket.pl/oferta/skoda/scala/319100/leasing"
   },
+  "317345": {
+    "id": "317345",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/317345/leasing"
+  },
+  "317285": {
+    "id": "317285",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/317285/leasing"
+  },
+  "316853": {
+    "id": "316853",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/316853/leasing"
+  },
+  "316322": {
+    "id": "316322",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/316322/leasing"
+  },
+  "315869": {
+    "id": "315869",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/315869/leasing"
+  },
+  "315647": {
+    "id": "315647",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/315647/leasing"
+  },
+  "315644": {
+    "id": "315644",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/315644/leasing"
+  },
   "313139": {
     "id": "313139",
     "brand": "mazda",
@@ -89,6 +143,12 @@
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/312638/leasing"
   },
+  "309566": {
+    "id": "309566",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/309566/leasing"
+  },
   "307400": {
     "id": "307400",
     "brand": "volkswagen",
@@ -100,6 +160,12 @@
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
+  },
+  "305237": {
+    "id": "305237",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/305237/leasing"
   },
   "302531": {
     "id": "302531",

@@ -41,17 +41,17 @@
     "title": "VolkswagenPolo GTI 206 KM DSG + Pakiet drogowy + Pakiet IQ + Pakiet Czujnik deszczu",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-polo-uzywany-2024-benzyna-czerwony-naped-przod-kompakt-wielkopolskie-volkswagen-centrum-poznan-komorniki-075309106"
   },
-  "000652471": {
-    "id": "000652471",
-    "brand": "skoda",
-    "title": "SkodaScala Ambition",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-opole-000652471"
-  },
   "032405242": {
     "id": "032405242",
     "brand": "skoda",
     "title": "SkodaOctavia",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-szary-naped-przod-sedan-limuzyna-lubuskie-certyfikowane-uzywane-kim-zielona-gora-032405242"
+  },
+  "000652471": {
+    "id": "000652471",
+    "brand": "skoda",
+    "title": "SkodaScala Ambition",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-opole-000652471"
   },
   "091369126": {
     "id": "091369126",
@@ -59,17 +59,17 @@
     "title": "SkodaScala Monte Carlo",
     "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2025-benzyna-czerwony-naped-przod-kompakt-mazowieckie-certyfikowane-uzywane-carsed-warszawa-091369126"
   },
-  "066909567": {
-    "id": "066909567",
-    "brand": "skoda",
-    "title": "SkodaOctavia Selection 1.5 TSI 150KM DSG",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2024-benzyna-srebrny-naped-przod-sedan-limuzyna-mazowieckie-certyfikowane-uzywane-carsed-minsk-066909567"
-  },
   "076300558": {
     "id": "076300558",
     "brand": "volkswagen",
     "title": "VolkswagenT-Roc Life 1.5 TSI 110 kW / 150 KM automatyczna, DSG 7-stopniowa",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2025-benzyna-szary-naped-przod-kompakt-mazowieckie-volkswagen-warszawa-piaseczno-076300558"
+  },
+  "066909567": {
+    "id": "066909567",
+    "brand": "skoda",
+    "title": "SkodaOctavia Selection 1.5 TSI 150KM DSG",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2024-benzyna-srebrny-naped-przod-sedan-limuzyna-mazowieckie-certyfikowane-uzywane-carsed-minsk-066909567"
   },
   "033392920": {
     "id": "033392920",
@@ -82,6 +82,12 @@
     "brand": "volkswagen",
     "title": "VolkswagenGolf",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-golf-uzywany-2024-benzyna-bialy-naped-przod-kompakt-slaskie-certyfikowane-uzywane-porsche-rybnik-049979833"
+  },
+  "082141282": {
+    "id": "082141282",
+    "brand": "toyota",
+    "title": "ToyotaCamry 2.5 Hybrid Prestige CVT",
+    "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2022-hybryda-bialy-naped-przod-sedan-dolnoslaskie-toyota-wroclaw-dlugoleka-082141282"
   },
   "049828815": {
     "id": "049828815",
@@ -107,11 +113,11 @@
     "title": "SkodaOctavia Selection",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2024-benzyna-niebieski-naped-przod-kompakt-slaskie-audi-centrum-lellek-gliwice-031422084"
   },
-  "082141282": {
-    "id": "082141282",
+  "080496679": {
+    "id": "080496679",
     "brand": "toyota",
-    "title": "ToyotaCamry 2.5 Hybrid Prestige CVT",
-    "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2022-hybryda-bialy-naped-przod-sedan-dolnoslaskie-toyota-wroclaw-dlugoleka-082141282"
+    "title": "ToyotaCamry 2.5 Hybrid Comfort CVT",
+    "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2023-hybryda-bialy-naped-przod-sedan-mazowieckie-toyota-bielany-warszawa-080496679"
   },
   "074476281": {
     "id": "074476281",
@@ -137,12 +143,6 @@
     "title": "VolkswagenT-Roc",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-czarny-naped-przod-kompakt-wielkopolskie-volkswagen-porsche-poznan-krancowa-096446344"
   },
-  "080496679": {
-    "id": "080496679",
-    "brand": "toyota",
-    "title": "ToyotaCamry 2.5 Hybrid Comfort CVT",
-    "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2023-hybryda-bialy-naped-przod-sedan-mazowieckie-toyota-bielany-warszawa-080496679"
-  },
   "063130045": {
     "id": "063130045",
     "brand": "skoda",
@@ -155,23 +155,41 @@
     "title": "SkodaOctavia Selection",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-szary-naped-przod-sedan-limuzyna-opolskie-certyfikowane-uzywane-lellek-opole-014728590"
   },
-  "016243161": {
-    "id": "016243161",
-    "brand": "skoda",
-    "title": "SkodaScala Monte Carlo",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2025-benzyna-szary-naped-przod-kompakt-dolnoslaskie-centrum-tmt-skoda-wroclaw-016243161"
-  },
   "040050566": {
     "id": "040050566",
     "brand": "skoda",
     "title": "SkodaScala Style",
     "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-szary-naped-przod-kompakt-slaskie-volkswagen-krotoski-czestochowa-040050566"
   },
+  "016243161": {
+    "id": "016243161",
+    "brand": "skoda",
+    "title": "SkodaScala Monte Carlo",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2025-benzyna-szary-naped-przod-kompakt-dolnoslaskie-centrum-tmt-skoda-wroclaw-016243161"
+  },
+  "041944474": {
+    "id": "041944474",
+    "brand": "toyota",
+    "title": "ToyotaCamry 2.5 Hybrid Comfort CVT",
+    "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2023-hybryda-srebrny-naped-przod-sedan-lubelskie-toyota-lublin-041944474"
+  },
   "031646568": {
     "id": "031646568",
     "brand": "skoda",
     "title": "SkodaOctavia Selection 1.5TSI 150KM DSG",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2024-benzyna-szary-naped-przod-kompakt-mazowieckie-certyfikowane-uzywane-carsed-minsk-031646568"
+  },
+  "055257772": {
+    "id": "055257772",
+    "brand": "skoda",
+    "title": "SkodaScala Style 1.5 TSI 110 kW 7-biegowa przekładnia automatyczna DSG",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-szary-naped-przod-kompakt-wielkopolskie-certyfikowane-uzywane-ignaszak-kalisz-055257772"
+  },
+  "071828158": {
+    "id": "071828158",
+    "brand": "skoda",
+    "title": "SkodaOctavia Edition 130 1.5 TSI 150KM DSG",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-bialy-naped-przod-kompakt-slaskie-audi-centrum-lellek-gliwice-071828158"
   },
   "079745926": {
     "id": "079745926",
@@ -185,17 +203,11 @@
     "title": "SkodaOctavia",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-bialy-naped-przod-sedan-limuzyna-lodzkie-volkswagen-krotoski-lodz-050066052"
   },
-  "071828158": {
-    "id": "071828158",
-    "brand": "skoda",
-    "title": "SkodaOctavia Edition 130 1.5 TSI 150KM DSG",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-bialy-naped-przod-kompakt-slaskie-audi-centrum-lellek-gliwice-071828158"
-  },
-  "041944474": {
-    "id": "041944474",
-    "brand": "toyota",
-    "title": "ToyotaCamry 2.5 Hybrid Comfort CVT",
-    "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2023-hybryda-srebrny-naped-przod-sedan-lubelskie-toyota-lublin-041944474"
+  "027381813": {
+    "id": "027381813",
+    "brand": "volkswagen",
+    "title": "VolkswagenT-Roc 1.5TSI 150KM DSG Special Edition + Pakiety DSG",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-czarny-naped-przod-kompakt-wielkopolskie-volkswagen-poznan-przezmierowo-027381813"
   },
   "086507786": {
     "id": "086507786",
@@ -203,29 +215,17 @@
     "title": "SkodaOctavia Selection 1.5 TSI 150KM DSG",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2024-benzyna-szary-naped-przod-kompakt-slaskie-audi-centrum-lellek-gliwice-086507786"
   },
-  "055257772": {
-    "id": "055257772",
+  "045184038": {
+    "id": "045184038",
     "brand": "skoda",
-    "title": "SkodaScala Style 1.5 TSI 110 kW 7-biegowa przekładnia automatyczna DSG",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-szary-naped-przod-kompakt-wielkopolskie-certyfikowane-uzywane-ignaszak-kalisz-055257772"
-  },
-  "027381813": {
-    "id": "027381813",
-    "brand": "volkswagen",
-    "title": "VolkswagenT-Roc 1.5TSI 150KM DSG Special Edition + Pakiety DSG",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-czarny-naped-przod-kompakt-wielkopolskie-volkswagen-poznan-przezmierowo-027381813"
+    "title": "SkodaOctavia Selection 1.5 TSI 150KM DSG",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-niebieski-naped-przod-kompakt-slaskie-audi-centrum-lellek-gliwice-045184038"
   },
   "040707179": {
     "id": "040707179",
     "brand": "skoda",
     "title": "SkodaKamiq 1.5TSI 150KM FV23% Edition 130 Pakiet Convenience Plus Pakiet Winter Premium Gwarancja producenta do 2028 Salon Polska Bezwypadkowy",
     "url": "https://findcar.pl/oferty-dealerow/skoda-kamiq-uzywany-2025-benzyna-szary-naped-przod-kompakt-pomorskie-volkswagen-slupsk-040707179"
-  },
-  "045184038": {
-    "id": "045184038",
-    "brand": "skoda",
-    "title": "SkodaOctavia Selection 1.5 TSI 150KM DSG",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-niebieski-naped-przod-kompakt-slaskie-audi-centrum-lellek-gliwice-045184038"
   },
   "032442816": {
     "id": "032442816",
@@ -257,17 +257,17 @@
     "title": "SkodaOctavia Selection",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-szary-naped-przod-sedan-limuzyna-opolskie-certyfikowane-uzywane-lellek-opole-050522317"
   },
-  "010418652": {
-    "id": "010418652",
-    "brand": "skoda",
-    "title": "SkodaOctavia Selection",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-szary-naped-przod-sedan-limuzyna-opolskie-certyfikowane-uzywane-lellek-opole-010418652"
-  },
   "087712651": {
     "id": "087712651",
     "brand": "volkswagen",
     "title": "VolkswagenT-Roc Life 1.5 TSI 110 kW / 150 KM automatyczna, DSG 7-stopniowa",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-czarny-naped-przod-kompakt-zachodniopomorskie-volkswagen-koszalin-087712651"
+  },
+  "010418652": {
+    "id": "010418652",
+    "brand": "skoda",
+    "title": "SkodaOctavia Selection",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-szary-naped-przod-sedan-limuzyna-opolskie-certyfikowane-uzywane-lellek-opole-010418652"
   },
   "068019668": {
     "id": "068019668",
@@ -305,17 +305,17 @@
     "title": "SkodaOctavia IV",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2025-benzyna-bialy-naped-przod-sedan-limuzyna-lodzkie-certyfikowane-uzywane-bednarek-lodz-001538400"
   },
-  "012733618": {
-    "id": "012733618",
-    "brand": "skoda",
-    "title": "SkodaKaroq Selection",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-karoq-uzywany-2024-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-kozle-012733618"
-  },
   "078484495": {
     "id": "078484495",
     "brand": "toyota",
     "title": "ToyotaCamry 2.5 Hybrid Comfort CVT",
     "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2023-hybryda-bialy-naped-przod-sedan-wielkopolskie-toyota-mikolajczak-kalisz-078484495"
+  },
+  "012733618": {
+    "id": "012733618",
+    "brand": "skoda",
+    "title": "SkodaKaroq Selection",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-karoq-uzywany-2024-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-kozle-012733618"
   },
   "002028092": {
     "id": "002028092",
