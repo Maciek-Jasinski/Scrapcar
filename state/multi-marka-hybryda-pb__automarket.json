@@ -11,11 +11,59 @@
     "model": "c-klasa",
     "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/298430/leasing"
   },
+  "317285": {
+    "id": "317285",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/317285/leasing"
+  },
+  "316853": {
+    "id": "316853",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/316853/leasing"
+  },
+  "316322": {
+    "id": "316322",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/316322/leasing"
+  },
+  "315869": {
+    "id": "315869",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/315869/leasing"
+  },
+  "315647": {
+    "id": "315647",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/315647/leasing"
+  },
+  "315644": {
+    "id": "315644",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/315644/leasing"
+  },
   "314060": {
     "id": "314060",
     "brand": "alfa-romeo",
     "model": "stelvio",
     "url": "https://automarket.pl/oferta/alfa-romeo/stelvio/314060/leasing"
+  },
+  "313589": {
+    "id": "313589",
+    "brand": "alfa-romeo",
+    "model": "giulia",
+    "url": "https://automarket.pl/oferta/alfa-romeo/giulia/313589/leasing"
+  },
+  "312638": {
+    "id": "312638",
+    "brand": "skoda",
+    "model": "karoq",
+    "url": "https://automarket.pl/oferta/skoda/karoq/312638/leasing"
   },
   "309566": {
     "id": "309566",
@@ -119,53 +167,11 @@
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/317345/leasing"
   },
-  "317285": {
-    "id": "317285",
-    "brand": "toyota",
-    "model": "camry",
-    "url": "https://automarket.pl/oferta/toyota/camry/317285/leasing"
-  },
-  "316853": {
-    "id": "316853",
-    "brand": "toyota",
-    "model": "camry",
-    "url": "https://automarket.pl/oferta/toyota/camry/316853/leasing"
-  },
-  "316322": {
-    "id": "316322",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/316322/leasing"
-  },
-  "315869": {
-    "id": "315869",
-    "brand": "mazda",
-    "model": "3",
-    "url": "https://automarket.pl/oferta/mazda/3/315869/leasing"
-  },
-  "315647": {
-    "id": "315647",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/315647/leasing"
-  },
-  "315644": {
-    "id": "315644",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/315644/leasing"
-  },
   "313139": {
     "id": "313139",
     "brand": "mazda",
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
-  },
-  "312638": {
-    "id": "312638",
-    "brand": "skoda",
-    "model": "karoq",
-    "url": "https://automarket.pl/oferta/skoda/karoq/312638/leasing"
   },
   "307400": {
     "id": "307400",
@@ -286,11 +292,5 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
-  },
-  "306425": {
-    "id": "306425",
-    "brand": "volkswagen",
-    "model": "golf",
-    "url": "https://automarket.pl/oferta/volkswagen/golf/306425/wynajem-dlugoterminowy"
   }
 }
