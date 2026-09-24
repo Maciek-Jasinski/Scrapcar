@@ -107,6 +107,12 @@
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/292871/leasing"
   },
+  "326528": {
+    "id": "326528",
+    "brand": "volkswagen",
+    "model": "golf",
+    "url": "https://automarket.pl/oferta/volkswagen/golf/326528/leasing"
+  },
   "326210": {
     "id": "326210",
     "brand": "skoda",
@@ -142,6 +148,12 @@
     "brand": "skoda",
     "model": "scala",
     "url": "https://automarket.pl/oferta/skoda/scala/319100/leasing"
+  },
+  "318404": {
+    "id": "318404",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/318404/leasing"
   },
   "317345": {
     "id": "317345",
@@ -196,12 +208,6 @@
     "brand": "kia",
     "model": "xceed",
     "url": "https://automarket.pl/oferta/kia/xceed/296477/leasing"
-  },
-  "295451": {
-    "id": "295451",
-    "brand": "toyota",
-    "model": "camry",
-    "url": "https://automarket.pl/oferta/toyota/camry/295451/wynajem-dlugoterminowy"
   },
   "291728": {
     "id": "291728",
@@ -274,11 +280,5 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
-  },
-  "318404": {
-    "id": "318404",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/318404/leasing"
   }
 }
