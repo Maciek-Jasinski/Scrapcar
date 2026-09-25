@@ -1,10 +1,4 @@
 {
-  "306950": {
-    "id": "306950",
-    "brand": "toyota",
-    "model": "camry",
-    "url": "https://automarket.pl/oferta/toyota/camry/306950/leasing"
-  },
   "317285": {
     "id": "317285",
     "brand": "toyota",
@@ -22,12 +16,6 @@
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/316322/leasing"
-  },
-  "315869": {
-    "id": "315869",
-    "brand": "mazda",
-    "model": "3",
-    "url": "https://automarket.pl/oferta/mazda/3/315869/leasing"
   },
   "315647": {
     "id": "315647",
@@ -88,6 +76,12 @@
     "brand": "volkswagen",
     "model": "arteon",
     "url": "https://automarket.pl/oferta/volkswagen/arteon/277262/leasing"
+  },
+  "315869": {
+    "id": "315869",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/315869/leasing"
   },
   "308513": {
     "id": "308513",
