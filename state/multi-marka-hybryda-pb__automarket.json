@@ -47,24 +47,6 @@
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/309566/leasing"
   },
-  "307142": {
-    "id": "307142",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/307142/leasing"
-  },
-  "306956": {
-    "id": "306956",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306956/leasing"
-  },
-  "306557": {
-    "id": "306557",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306557/leasing"
-  },
   "305237": {
     "id": "305237",
     "brand": "mazda",
@@ -82,18 +64,6 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/315869/leasing"
-  },
-  "308513": {
-    "id": "308513",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/leasing"
-  },
-  "297812": {
-    "id": "297812",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
   "326528": {
     "id": "326528",
@@ -155,11 +125,35 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
   },
+  "308513": {
+    "id": "308513",
+    "brand": "volkswagen",
+    "model": "t-roc",
+    "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/leasing"
+  },
+  "307142": {
+    "id": "307142",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/307142/leasing"
+  },
   "307400": {
     "id": "307400",
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
+  },
+  "306956": {
+    "id": "306956",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306956/leasing"
+  },
+  "306557": {
+    "id": "306557",
+    "brand": "mercedes-benz",
+    "model": "c-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306557/leasing"
   },
   "305360": {
     "id": "305360",
@@ -268,5 +262,11 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
+  },
+  "297812": {
+    "id": "297812",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   }
 }
