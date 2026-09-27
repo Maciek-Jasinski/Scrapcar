@@ -179,6 +179,12 @@
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/301376/leasing"
   },
+  "297812": {
+    "id": "297812",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
+  },
   "297668": {
     "id": "297668",
     "brand": "toyota",
@@ -262,11 +268,5 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
-  },
-  "297812": {
-    "id": "297812",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   }
 }
