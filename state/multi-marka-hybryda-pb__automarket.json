@@ -71,12 +71,6 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/322190/leasing"
   },
-  "321536": {
-    "id": "321536",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/321536/wynajem-dlugoterminowy"
-  },
   "321302": {
     "id": "321302",
     "brand": "audi",
@@ -238,6 +232,12 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
+  },
+  "321536": {
+    "id": "321536",
+    "brand": "volkswagen",
+    "model": "t-roc",
+    "url": "https://automarket.pl/oferta/volkswagen/t-roc/321536/wynajem-dlugoterminowy"
   },
   "308513": {
     "id": "308513",
