@@ -1,10 +1,4 @@
 {
-  "317285": {
-    "id": "317285",
-    "brand": "toyota",
-    "model": "camry",
-    "url": "https://automarket.pl/oferta/toyota/camry/317285/leasing"
-  },
   "316853": {
     "id": "316853",
     "brand": "toyota",
@@ -94,6 +88,12 @@
     "brand": "skoda",
     "model": "scala",
     "url": "https://automarket.pl/oferta/skoda/scala/319100/leasing"
+  },
+  "318404": {
+    "id": "318404",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/318404/leasing"
   },
   "317345": {
     "id": "317345",
@@ -238,12 +238,6 @@
     "brand": "volvo",
     "model": "s60",
     "url": "https://automarket.pl/oferta/volvo/s60/265163/leasing"
-  },
-  "318404": {
-    "id": "318404",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/318404/leasing"
   },
   "308513": {
     "id": "308513",
