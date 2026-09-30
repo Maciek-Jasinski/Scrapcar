@@ -11,12 +11,6 @@
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/316322/leasing"
   },
-  "315647": {
-    "id": "315647",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/315647/leasing"
-  },
   "314060": {
     "id": "314060",
     "brand": "alfa-romeo",
@@ -46,6 +40,12 @@
     "brand": "volkswagen",
     "model": "arteon",
     "url": "https://automarket.pl/oferta/volkswagen/arteon/277262/leasing"
+  },
+  "327371": {
+    "id": "327371",
+    "brand": "skoda",
+    "model": "karoq",
+    "url": "https://automarket.pl/oferta/skoda/karoq/327371/leasing"
   },
   "326528": {
     "id": "326528",
@@ -101,23 +101,17 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
   },
-  "307142": {
-    "id": "307142",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/307142/leasing"
+  "308513": {
+    "id": "308513",
+    "brand": "volkswagen",
+    "model": "t-roc",
+    "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/leasing"
   },
   "307400": {
     "id": "307400",
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
-  },
-  "306956": {
-    "id": "306956",
-    "brand": "mercedes-benz",
-    "model": "c-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306956/leasing"
   },
   "306557": {
     "id": "306557",
@@ -215,12 +209,6 @@
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/280331/leasing"
   },
-  "276404": {
-    "id": "276404",
-    "brand": "mazda",
-    "model": "3",
-    "url": "https://automarket.pl/oferta/mazda/3/276404/leasing"
-  },
   "273809": {
     "id": "273809",
     "brand": "skoda",
@@ -238,12 +226,6 @@
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/321536/wynajem-dlugoterminowy"
-  },
-  "308513": {
-    "id": "308513",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/308513/leasing"
   },
   "305360": {
     "id": "305360",
