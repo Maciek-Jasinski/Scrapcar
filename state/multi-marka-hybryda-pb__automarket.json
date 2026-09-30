@@ -41,11 +41,23 @@
     "model": "arteon",
     "url": "https://automarket.pl/oferta/volkswagen/arteon/277262/leasing"
   },
+  "328172": {
+    "id": "328172",
+    "brand": "bmw",
+    "model": "seria-3",
+    "url": "https://automarket.pl/oferta/bmw/seria-3/328172/leasing"
+  },
   "327371": {
     "id": "327371",
     "brand": "skoda",
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/327371/leasing"
+  },
+  "323963": {
+    "id": "323963",
+    "brand": "toyota",
+    "model": "camry",
+    "url": "https://automarket.pl/oferta/toyota/camry/323963/leasing"
   },
   "326528": {
     "id": "326528",
