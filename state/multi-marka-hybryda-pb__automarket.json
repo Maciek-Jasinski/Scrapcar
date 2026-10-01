@@ -41,6 +41,18 @@
     "model": "arteon",
     "url": "https://automarket.pl/oferta/volkswagen/arteon/277262/leasing"
   },
+  "328382": {
+    "id": "328382",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/328382/leasing"
+  },
+  "328370": {
+    "id": "328370",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/328370/leasing"
+  },
   "328172": {
     "id": "328172",
     "brand": "bmw",
@@ -130,6 +142,12 @@
     "brand": "mercedes-benz",
     "model": "c-klasa",
     "url": "https://automarket.pl/oferta/mercedes-benz/c-klasa/306557/leasing"
+  },
+  "305360": {
+    "id": "305360",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
   },
   "302531": {
     "id": "302531",
@@ -238,11 +256,5 @@
     "brand": "volkswagen",
     "model": "t-roc",
     "url": "https://automarket.pl/oferta/volkswagen/t-roc/321536/wynajem-dlugoterminowy"
-  },
-  "305360": {
-    "id": "305360",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/305360/leasing"
   }
 }

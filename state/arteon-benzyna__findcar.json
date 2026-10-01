@@ -5,12 +5,6 @@
     "title": "VolkswagenArteon Shooting Brake Elegance",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2024-benzyna-czarny-naped-4x4-kombi-malopolskie-volkswagen-krakow-modlniczka-060296046"
   },
-  "070374300": {
-    "id": "070374300",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Elegance 2.0 TSI 190KM DSG",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-srebrny-naped-przod-sedan-limuzyna-zachodniopomorskie-volkswagen-szczecin-poludniowa-070374300"
-  },
   "013749206": {
     "id": "013749206",
     "brand": "volkswagen",
@@ -95,17 +89,17 @@
     "title": "VolkswagenArteon",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-srebrny-naped-przod-sedan-limuzyna-wielkopolskie-certyfikowane-uzywane-rzepecki-mroczkowski-poznan-sanocka-008492999"
   },
-  "050756092": {
-    "id": "050756092",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake R-Line",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-srebrny-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-tychy-050756092"
-  },
   "086545360": {
     "id": "086545360",
     "brand": "volkswagen",
     "title": "VolkswagenArteon",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-czarny-naped-przod-kombi-wielkopolskie-certyfikowane-uzywane-rzepecki-mroczkowski-poznan-sanocka-086545360"
+  },
+  "050756092": {
+    "id": "050756092",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake R-Line",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-srebrny-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-tychy-050756092"
   },
   "014272013": {
     "id": "014272013",
@@ -131,17 +125,17 @@
     "title": "VolkswagenArteon Shooting Brake R-Line",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-tychy-074150733"
   },
-  "049429801": {
-    "id": "049429801",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake R-Line",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-czarny-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-tychy-049429801"
-  },
   "083174767": {
     "id": "083174767",
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-niebieski-naped-przod-kombi-malopolskie-volkswagen-porsche-krakow-zakopianska-083174767"
+  },
+  "049429801": {
+    "id": "049429801",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake R-Line",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-czarny-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-tychy-049429801"
   },
   "004404083": {
     "id": "004404083",
@@ -160,5 +154,11 @@
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake Elegance",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-szary-naped-4x4-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-068473468"
+  },
+  "089198627": {
+    "id": "089198627",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon 2.0 TSI Elegance DSG",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2022-benzyna-czarny-naped-przod-sedan-slaskie-toyota-sosnowiec-089198627"
   }
 }
