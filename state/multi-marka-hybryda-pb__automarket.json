@@ -35,12 +35,6 @@
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/328370/leasing"
   },
-  "328172": {
-    "id": "328172",
-    "brand": "bmw",
-    "model": "seria-3",
-    "url": "https://automarket.pl/oferta/bmw/seria-3/328172/leasing"
-  },
   "327371": {
     "id": "327371",
     "brand": "skoda",
@@ -70,12 +64,6 @@
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/326210/leasing"
-  },
-  "326141": {
-    "id": "326141",
-    "brand": "mercedes-benz",
-    "model": "a-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/326141/leasing"
   },
   "326030": {
     "id": "326030",
@@ -238,6 +226,12 @@
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/263093/leasing"
+  },
+  "326141": {
+    "id": "326141",
+    "brand": "mercedes-benz",
+    "model": "a-klasa",
+    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/326141/leasing"
   },
   "321536": {
     "id": "321536",
