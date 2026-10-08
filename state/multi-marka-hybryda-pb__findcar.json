@@ -41,12 +41,6 @@
     "title": "VolkswagenTaigo R-Line Plus 1.5 TSI ACT 110 kW / 150 KM DSG, 7-stopniowa",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-taigo-uzywany-2025-benzyna-czerwony-naped-przod-kompakt-mazowieckie-volkswagen-porsche-warszawa-okecie-008969938"
   },
-  "000652471": {
-    "id": "000652471",
-    "brand": "skoda",
-    "title": "SkodaScala Ambition",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-bialy-naped-przod-kompakt-opolskie-certyfikowane-uzywane-lellek-opole-000652471"
-  },
   "091369126": {
     "id": "091369126",
     "brand": "skoda",
@@ -364,5 +358,17 @@
     "brand": "skoda",
     "title": "SkodaScala Drive",
     "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2026-benzyna-szary-naped-przod-kompakt-wielkopolskie-skoda-porsche-poznan-obornicka-006325962"
+  },
+  "020218945": {
+    "id": "020218945",
+    "brand": "toyota",
+    "title": "ToyotaCamry 2.5 Hybrid Prestige CVT",
+    "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2022-hybryda-srebrny-naped-przod-sedan-malopolskie-toyota-anwa-krakow-020218945"
+  },
+  "012317392": {
+    "id": "012317392",
+    "brand": "volkswagen",
+    "title": "VolkswagenT-Roc Life",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2024-benzyna-szary-naped-przod-kompakt-mazowieckie-volkswagen-porsche-warszawa-polczynska-012317392"
   }
 }
