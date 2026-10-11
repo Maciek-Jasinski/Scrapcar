@@ -65,6 +65,12 @@
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/295421/leasing"
   },
+  "297812": {
+    "id": "297812",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
+  },
   "296477": {
     "id": "296477",
     "brand": "kia",
@@ -76,12 +82,6 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/297269/leasing"
-  },
-  "297812": {
-    "id": "297812",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
   "301376": {
     "id": "301376",
