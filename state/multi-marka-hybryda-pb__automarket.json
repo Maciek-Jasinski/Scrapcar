@@ -77,12 +77,6 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
-  "296477": {
-    "id": "296477",
-    "brand": "kia",
-    "model": "xceed",
-    "url": "https://automarket.pl/oferta/kia/xceed/296477/leasing"
-  },
   "301376": {
     "id": "301376",
     "brand": "skoda",
@@ -179,18 +173,6 @@
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/327371/leasing"
   },
-  "326210": {
-    "id": "326210",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/326210/leasing"
-  },
-  "328599": {
-    "id": "328599",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/328599/leasing"
-  },
   "328370": {
     "id": "328370",
     "brand": "skoda",
@@ -202,6 +184,18 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/328382/leasing"
+  },
+  "326210": {
+    "id": "326210",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/326210/leasing"
+  },
+  "328599": {
+    "id": "328599",
+    "brand": "volkswagen",
+    "model": "t-roc",
+    "url": "https://automarket.pl/oferta/volkswagen/t-roc/328599/leasing"
   },
   "328908": {
     "id": "328908",
@@ -221,23 +215,11 @@
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/329253/leasing"
   },
-  "307400": {
-    "id": "307400",
-    "brand": "volkswagen",
-    "model": "t-roc",
-    "url": "https://automarket.pl/oferta/volkswagen/t-roc/307400/leasing"
-  },
   "313139": {
     "id": "313139",
     "brand": "mazda",
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
-  },
-  "326141": {
-    "id": "326141",
-    "brand": "mercedes-benz",
-    "model": "a-klasa",
-    "url": "https://automarket.pl/oferta/mercedes-benz/a-klasa/326141/leasing"
   },
   "330294": {
     "id": "330294",
