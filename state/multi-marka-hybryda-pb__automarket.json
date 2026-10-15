@@ -17,12 +17,6 @@
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/263093/leasing"
   },
-  "273809": {
-    "id": "273809",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/273809/leasing"
-  },
   "279518": {
     "id": "279518",
     "brand": "mazda",
@@ -137,12 +131,6 @@
     "model": "superb",
     "url": "https://automarket.pl/oferta/skoda/superb/322793/leasing"
   },
-  "318404": {
-    "id": "318404",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/318404/leasing"
-  },
   "326030": {
     "id": "326030",
     "brand": "bmw",
@@ -173,17 +161,17 @@
     "model": "karoq",
     "url": "https://automarket.pl/oferta/skoda/karoq/327371/leasing"
   },
-  "328370": {
-    "id": "328370",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/328370/leasing"
-  },
   "326210": {
     "id": "326210",
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/326210/leasing"
+  },
+  "328370": {
+    "id": "328370",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/328370/leasing"
   },
   "328382": {
     "id": "328382",
@@ -220,5 +208,11 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/328908/leasing"
+  },
+  "318404": {
+    "id": "318404",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/318404/leasing"
   }
 }
