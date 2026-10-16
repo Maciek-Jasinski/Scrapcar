@@ -59,6 +59,12 @@
     "model": "camry",
     "url": "https://automarket.pl/oferta/toyota/camry/316853/leasing"
   },
+  "330294": {
+    "id": "330294",
+    "brand": "audi",
+    "model": "a3",
+    "url": "https://automarket.pl/oferta/audi/a3/330294/leasing"
+  },
   "329253": {
     "id": "329253",
     "brand": "mazda",
@@ -202,12 +208,6 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/279518/leasing"
-  },
-  "330294": {
-    "id": "330294",
-    "brand": "audi",
-    "model": "a3",
-    "url": "https://automarket.pl/oferta/audi/a3/330294/leasing"
   },
   "328908": {
     "id": "328908",
