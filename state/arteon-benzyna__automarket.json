@@ -5,41 +5,11 @@
     "model": "arteon",
     "url": "https://automarket.pl/oferta/volkswagen/arteon/277262/leasing"
   },
-  "328062": {
-    "id": "328062",
+  "269238": {
+    "id": "269238",
     "brand": "volkswagen",
     "model": "arteon",
-    "url": "https://automarket.pl/oferta/volkswagen/arteon/328062/leasing"
-  },
-  "320990": {
-    "id": "320990",
-    "brand": "volkswagen",
-    "model": "arteon",
-    "url": "https://automarket.pl/oferta/volkswagen/arteon/320990/leasing"
-  },
-  "320993": {
-    "id": "320993",
-    "brand": "volkswagen",
-    "model": "arteon",
-    "url": "https://automarket.pl/oferta/volkswagen/arteon/320993/leasing"
-  },
-  "322496": {
-    "id": "322496",
-    "brand": "volkswagen",
-    "model": "arteon",
-    "url": "https://automarket.pl/oferta/volkswagen/arteon/322496/leasing"
-  },
-  "316343": {
-    "id": "316343",
-    "brand": "volkswagen",
-    "model": "arteon",
-    "url": "https://automarket.pl/oferta/volkswagen/arteon/316343/leasing"
-  },
-  "309971": {
-    "id": "309971",
-    "brand": "volkswagen",
-    "model": "arteon",
-    "url": "https://automarket.pl/oferta/volkswagen/arteon/309971/leasing"
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/269238/leasing"
   },
   "286616": {
     "id": "286616",
@@ -47,10 +17,40 @@
     "model": "arteon",
     "url": "https://automarket.pl/oferta/volkswagen/arteon/286616/leasing"
   },
-  "269238": {
-    "id": "269238",
+  "309971": {
+    "id": "309971",
     "brand": "volkswagen",
     "model": "arteon",
-    "url": "https://automarket.pl/oferta/volkswagen/arteon/269238/leasing"
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/309971/leasing"
+  },
+  "316343": {
+    "id": "316343",
+    "brand": "volkswagen",
+    "model": "arteon",
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/316343/leasing"
+  },
+  "322496": {
+    "id": "322496",
+    "brand": "volkswagen",
+    "model": "arteon",
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/322496/leasing"
+  },
+  "320993": {
+    "id": "320993",
+    "brand": "volkswagen",
+    "model": "arteon",
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/320993/leasing"
+  },
+  "320990": {
+    "id": "320990",
+    "brand": "volkswagen",
+    "model": "arteon",
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/320990/leasing"
+  },
+  "328062": {
+    "id": "328062",
+    "brand": "volkswagen",
+    "model": "arteon",
+    "url": "https://automarket.pl/oferta/volkswagen/arteon/328062/leasing"
   }
 }
