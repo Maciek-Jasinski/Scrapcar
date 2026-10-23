@@ -215,11 +215,17 @@
     "model": "xceed",
     "url": "https://automarket.pl/oferta/kia/xceed/332706/leasing"
   },
-  "322793": {
-    "id": "322793",
+  "333000": {
+    "id": "333000",
     "brand": "skoda",
-    "model": "superb",
-    "url": "https://automarket.pl/oferta/skoda/superb/322793/leasing"
+    "model": "kamiq",
+    "url": "https://automarket.pl/oferta/skoda/kamiq/333000/leasing"
+  },
+  "333072": {
+    "id": "333072",
+    "brand": "skoda",
+    "model": "fabia",
+    "url": "https://automarket.pl/oferta/skoda/fabia/333072/leasing"
   },
   "318404": {
     "id": "318404",
