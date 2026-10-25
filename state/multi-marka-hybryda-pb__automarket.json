@@ -137,17 +137,17 @@
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/328382/leasing"
   },
-  "329253": {
-    "id": "329253",
-    "brand": "mazda",
-    "model": "3",
-    "url": "https://automarket.pl/oferta/mazda/3/329253/leasing"
-  },
   "326210": {
     "id": "326210",
     "brand": "skoda",
     "model": "octavia",
     "url": "https://automarket.pl/oferta/skoda/octavia/326210/leasing"
+  },
+  "329253": {
+    "id": "329253",
+    "brand": "mazda",
+    "model": "3",
+    "url": "https://automarket.pl/oferta/mazda/3/329253/leasing"
   },
   "330294": {
     "id": "330294",
