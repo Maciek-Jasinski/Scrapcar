@@ -35,12 +35,6 @@
     "title": "VolkswagenArteon Shooting Brake",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-niebieski-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-sosnowiec-014272013"
   },
-  "061110564": {
-    "id": "061110564",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-bialy-naped-przod-kombi-lodzkie-volkswagen-krotoski-lodz-061110564"
-  },
   "008492999": {
     "id": "008492999",
     "brand": "volkswagen",
@@ -52,6 +46,12 @@
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake R-Line",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-niebieski-naped-przod-kombi-slaskie-samochody-uzywane-cichy-zasada-bielsko-biala-046780681"
+  },
+  "061110564": {
+    "id": "061110564",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-bialy-naped-przod-kombi-lodzkie-volkswagen-krotoski-lodz-061110564"
   },
   "086545360": {
     "id": "086545360",
@@ -89,6 +89,12 @@
     "title": "VolkswagenArteon Shooting Brake",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-niebieski-naped-przod-kombi-malopolskie-volkswagen-porsche-krakow-zakopianska-083174767"
   },
+  "028014290": {
+    "id": "028014290",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-czarny-naped-przod-kombi-malopolskie-volkswagen-nowy-sacz-028014290"
+  },
   "004404083": {
     "id": "004404083",
     "brand": "volkswagen",
@@ -100,12 +106,6 @@
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake R-Line",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-malopolskie-volkswagen-porsche-krakow-zakopianska-096104581"
-  },
-  "028014290": {
-    "id": "028014290",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-czarny-naped-przod-kombi-malopolskie-volkswagen-nowy-sacz-028014290"
   },
   "026921089": {
     "id": "026921089",
@@ -143,6 +143,12 @@
     "title": "VolkswagenArteon Shooting Brake",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-niebieski-naped-przod-kombi-malopolskie-carselect-dynamica-jawornik-samochody-uzywane-086170170"
   },
+  "062425472": {
+    "id": "062425472",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake R Line",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-srebrny-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-sosnowiec-062425472"
+  },
   "060188119": {
     "id": "060188119",
     "brand": "volkswagen",
@@ -161,16 +167,16 @@
     "title": "VolkswagenArteon R-line",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-skoda-warszawa-modlinska-026741103"
   },
-  "062425472": {
-    "id": "062425472",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake R Line",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-srebrny-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-sosnowiec-062425472"
-  },
   "077510255": {
     "id": "077510255",
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake R-Line 2,0 lTSI OPF 4MOTION 206 kW (280 PS)",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-4x4-kombi-slaskie-certyfikowane-uzywane-porsche-sosnowiec-077510255"
+  },
+  "031255848": {
+    "id": "031255848",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake R-Line",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-czarny-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-rybnik-031255848"
   }
 }
