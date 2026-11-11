@@ -23,12 +23,6 @@
     "model": "seria-3",
     "url": "https://automarket.pl/oferta/bmw/seria-3/311501/leasing"
   },
-  "313139": {
-    "id": "313139",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
-  },
   "322079": {
     "id": "322079",
     "brand": "bmw",
@@ -119,6 +113,12 @@
     "model": "seria-3",
     "url": "https://automarket.pl/oferta/bmw/seria-3/324200/leasing"
   },
+  "313139": {
+    "id": "313139",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
+  },
   "281156": {
     "id": "281156",
     "brand": "toyota",
@@ -136,12 +136,6 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/297269/leasing"
-  },
-  "297812": {
-    "id": "297812",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
   "308513": {
     "id": "308513",
@@ -191,17 +185,17 @@
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/332556/leasing"
   },
-  "326210": {
-    "id": "326210",
-    "brand": "skoda",
-    "model": "octavia",
-    "url": "https://automarket.pl/oferta/skoda/octavia/326210/leasing"
-  },
   "332706": {
     "id": "332706",
     "brand": "kia",
     "model": "xceed",
     "url": "https://automarket.pl/oferta/kia/xceed/332706/leasing"
+  },
+  "326210": {
+    "id": "326210",
+    "brand": "skoda",
+    "model": "octavia",
+    "url": "https://automarket.pl/oferta/skoda/octavia/326210/leasing"
   },
   "334059": {
     "id": "334059",
@@ -227,17 +221,23 @@
     "model": "k4",
     "url": "https://automarket.pl/oferta/kia/k4/336588/leasing"
   },
+  "336999": {
+    "id": "336999",
+    "brand": "kia",
+    "model": "xceed",
+    "url": "https://automarket.pl/oferta/kia/xceed/336999/leasing"
+  },
   "333108": {
     "id": "333108",
     "brand": "skoda",
     "model": "fabia",
     "url": "https://automarket.pl/oferta/skoda/fabia/333108/leasing"
   },
-  "336999": {
-    "id": "336999",
-    "brand": "kia",
-    "model": "xceed",
-    "url": "https://automarket.pl/oferta/kia/xceed/336999/leasing"
+  "297812": {
+    "id": "297812",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
   "326030": {
     "id": "326030",
