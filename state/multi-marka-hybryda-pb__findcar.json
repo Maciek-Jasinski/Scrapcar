@@ -1,4 +1,10 @@
 {
+  "099002382": {
+    "id": "099002382",
+    "brand": "volkswagen",
+    "title": "VolkswagenT-Cross Style",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-cross-uzywany-2023-benzyna-czarny-naped-przod-kompakt-lodzkie-volkswagen-krotoski-lodz-099002382"
+  },
   "039259150": {
     "id": "039259150",
     "brand": "skoda",
@@ -59,12 +65,6 @@
     "title": "ToyotaCamry 2.5 Hybrid Comfort CVT",
     "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2023-hybryda-srebrny-naped-przod-sedan-pomorskie-toyota-carter-chodzen-gdansk-kowale-066645417"
   },
-  "080750816": {
-    "id": "080750816",
-    "brand": "volkswagen",
-    "title": "VolkswagenT-Roc Life 1.5 eTSI 110 kW / 150 KM automatyczna, DSG 7-stopniowa",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-roc-uzywany-2026-hybryda-mhev-benzyna-szary-naped-przod-kompakt-slaskie-volkswagen-porsche-rybnik-080750816"
-  },
   "022795284": {
     "id": "022795284",
     "brand": "volkswagen",
@@ -113,12 +113,6 @@
     "title": "SkodaScala",
     "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2023-benzyna-bialy-naped-przod-kompakt-wielkopolskie-volkswagen-porsche-poznan-krancowa-044352583"
   },
-  "048997360": {
-    "id": "048997360",
-    "brand": "skoda",
-    "title": "SkodaScala",
-    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2024-benzyna-szary-naped-przod-kompakt-lodzkie-volkswagen-krotoski-lodz-048997360"
-  },
   "019583006": {
     "id": "019583006",
     "brand": "skoda",
@@ -137,23 +131,11 @@
     "title": "SkodaSuperb Essence 1.5 TSI mHEV 150KM DSG",
     "url": "https://findcar.pl/oferty-dealerow/skoda-superb-uzywany-2025-benzyna-niebieski-naped-przod-sedan-limuzyna-zachodniopomorskie-volkswagen-szczecin-poludniowa-023267764"
   },
-  "023741241": {
-    "id": "023741241",
-    "brand": "volkswagen",
-    "title": "VolkswagenGolf R-line DSG",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-golf-uzywany-2024-benzyna-bialy-naped-przod-kompakt-slaskie-samochody-uzywane-cichy-zasada-bielsko-biala-023741241"
-  },
   "021165899": {
     "id": "021165899",
     "brand": "toyota",
     "title": "ToyotaCamry 2.5 Hybrid Comfort CVT",
     "url": "https://findcar.pl/oferty-dealerow/toyota-camry-uzywany-2023-hybryda-srebrny-naped-przod-sedan-wielkopolskie-toyota-konin-021165899"
-  },
-  "064355272": {
-    "id": "064355272",
-    "brand": "volkswagen",
-    "title": "VolkswagenT-Cross Style DSG 1.5 TSI",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-t-cross-uzywany-2022-benzyna-szary-naped-przod-kompakt-wielkopolskie-skoda-poznan-unii-lubelskiej-064355272"
   },
   "052441731": {
     "id": "052441731",
@@ -227,12 +209,6 @@
     "title": "SkodaOctavia IV Selection",
     "url": "https://findcar.pl/oferty-dealerow/skoda-octavia-uzywany-2024-benzyna-czarny-naped-przod-sedan-limuzyna-opolskie-certyfikowane-uzywane-lellek-opole-023801581"
   },
-  "049979833": {
-    "id": "049979833",
-    "brand": "volkswagen",
-    "title": "VolkswagenGolf",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-golf-uzywany-2024-benzyna-bialy-naped-przod-kompakt-slaskie-certyfikowane-uzywane-porsche-rybnik-049979833"
-  },
   "036995918": {
     "id": "036995918",
     "brand": "skoda",
@@ -280,6 +256,12 @@
     "brand": "alfa",
     "title": "Alfa RomeoTonale MHEV Veloce 160KM DCT",
     "url": "https://findcar.pl/oferty-dealerow/alfa-romeo-tonale-uzywany-2022-benzyna-bialy-naped-przod-kompakt-mazowieckie-certyfikowane-uzywane-carsed-minsk-001322522"
+  },
+  "048997360": {
+    "id": "048997360",
+    "brand": "skoda",
+    "title": "SkodaScala",
+    "url": "https://findcar.pl/oferty-dealerow/skoda-scala-uzywany-2024-benzyna-szary-naped-przod-kompakt-lodzkie-volkswagen-krotoski-lodz-048997360"
   },
   "070815720": {
     "id": "070815720",
