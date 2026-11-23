@@ -95,12 +95,6 @@
     "model": "seria-3",
     "url": "https://automarket.pl/oferta/bmw/seria-3/311501/leasing"
   },
-  "313139": {
-    "id": "313139",
-    "brand": "mazda",
-    "model": "6",
-    "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
-  },
   "316853": {
     "id": "316853",
     "brand": "toyota",
@@ -148,6 +142,12 @@
     "brand": "bmw",
     "model": "seria-3",
     "url": "https://automarket.pl/oferta/bmw/seria-3/304874/leasing"
+  },
+  "313139": {
+    "id": "313139",
+    "brand": "mazda",
+    "model": "6",
+    "url": "https://automarket.pl/oferta/mazda/6/313139/leasing"
   },
   "321536": {
     "id": "321536",
