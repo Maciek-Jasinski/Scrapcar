@@ -59,12 +59,6 @@
     "model": "6",
     "url": "https://automarket.pl/oferta/mazda/6/297812/leasing"
   },
-  "332706": {
-    "id": "332706",
-    "brand": "kia",
-    "model": "xceed",
-    "url": "https://automarket.pl/oferta/kia/xceed/332706/leasing"
-  },
   "297269": {
     "id": "297269",
     "brand": "mazda",
@@ -76,6 +70,12 @@
     "brand": "audi",
     "model": "a3",
     "url": "https://automarket.pl/oferta/audi/a3/304850/leasing"
+  },
+  "304874": {
+    "id": "304874",
+    "brand": "bmw",
+    "model": "seria-3",
+    "url": "https://automarket.pl/oferta/bmw/seria-3/304874/leasing"
   },
   "305360": {
     "id": "305360",
@@ -136,12 +136,6 @@
     "brand": "kia",
     "model": "xceed",
     "url": "https://automarket.pl/oferta/kia/xceed/336999/leasing"
-  },
-  "304874": {
-    "id": "304874",
-    "brand": "bmw",
-    "model": "seria-3",
-    "url": "https://automarket.pl/oferta/bmw/seria-3/304874/leasing"
   },
   "313139": {
     "id": "313139",
