@@ -1,15 +1,15 @@
 {
+  "071073319": {
+    "id": "071073319",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Elegance",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2022-benzyna-srebrny-naped-przod-liftback-mazowieckie-volkswagen-krotoski-warszawa-wolica-071073319"
+  },
   "062665859": {
     "id": "062665859",
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake R-line 2.0 TSI 190KM",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-srebrny-naped-przod-kombi-mazowieckie-certyfikowane-uzywane-carsed-siedlce-062665859"
-  },
-  "031953497": {
-    "id": "031953497",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake R-Line",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-031953497"
   },
   "031255848": {
     "id": "031255848",
@@ -119,6 +119,12 @@
     "title": "VolkswagenArteon Elegance",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2024-benzyna-szary-naped-przod-sedan-limuzyna-lubelskie-certyfikowane-uzywane-carsed-biala-podlaska-013749206"
   },
+  "031953497": {
+    "id": "031953497",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake R-Line",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-031953497"
+  },
   "006620450": {
     "id": "006620450",
     "brand": "volkswagen",
@@ -136,12 +142,6 @@
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake R-line 280KM",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-czarny-naped-4x4-kombi-slaskie-samochody-uzywane-cichy-zasada-bielsko-biala-062881737"
-  },
-  "068473468": {
-    "id": "068473468",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake Elegance",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-szary-naped-4x4-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-068473468"
   },
   "096104581": {
     "id": "096104581",
@@ -161,6 +161,12 @@
     "title": "VolkswagenArteon Elegance",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-uzywany-2024-benzyna-szary-naped-przod-sedan-limuzyna-lubelskie-certyfikowane-uzywane-carsed-biala-podlaska-009018895"
   },
+  "068473468": {
+    "id": "068473468",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake Elegance",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-szary-naped-4x4-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-068473468"
+  },
   "004404083": {
     "id": "004404083",
     "brand": "volkswagen",
@@ -173,16 +179,16 @@
     "title": "VolkswagenArteon Shooting Brake",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-niebieski-naped-przod-kombi-slaskie-certyfikowane-uzywane-porsche-sosnowiec-014272013"
   },
-  "065591570": {
-    "id": "065591570",
-    "brand": "volkswagen",
-    "title": "VolkswagenArteon Shooting Brake R-Line",
-    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-065591570"
-  },
   "083174767": {
     "id": "083174767",
     "brand": "volkswagen",
     "title": "VolkswagenArteon Shooting Brake",
     "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2022-benzyna-niebieski-naped-przod-kombi-malopolskie-volkswagen-porsche-krakow-zakopianska-083174767"
+  },
+  "065591570": {
+    "id": "065591570",
+    "brand": "volkswagen",
+    "title": "VolkswagenArteon Shooting Brake R-Line",
+    "url": "https://findcar.pl/oferty-dealerow/volkswagen-arteon-shooting-brake-uzywany-2023-benzyna-szary-naped-przod-kombi-mazowieckie-volkswagen-krotoski-warszawa-wolica-065591570"
   }
 }
