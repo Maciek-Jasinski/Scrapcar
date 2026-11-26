@@ -5,6 +5,12 @@
     "model": "es",
     "url": "https://automarket.pl/oferta/lexus/es/330705/leasing"
   },
+  "313871": {
+    "id": "313871",
+    "brand": "skoda",
+    "model": "superb",
+    "url": "https://automarket.pl/oferta/skoda/superb/313871/leasing"
+  },
   "331299": {
     "id": "331299",
     "brand": "lexus",
@@ -46,12 +52,6 @@
     "brand": "mazda",
     "model": "3",
     "url": "https://automarket.pl/oferta/mazda/3/335982/leasing"
-  },
-  "313871": {
-    "id": "313871",
-    "brand": "skoda",
-    "model": "superb",
-    "url": "https://automarket.pl/oferta/skoda/superb/313871/leasing"
   },
   "297812": {
     "id": "297812",
